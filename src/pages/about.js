@@ -8,6 +8,7 @@ class About extends Component {
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
+    const pageContent = data.allMarkdownRemark.edges[0].node.html
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -16,6 +17,7 @@ class About extends Component {
           keywords={[`about`, `gatsby`, `javascript`, `react`]}
         />
         <PageTitle title="About" link="about" />
+        <div dangerouslySetInnerHTML={{ __html: pageContent }} />
       </Layout>
     )
   }
@@ -30,10 +32,10 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/about/" } }) {
       edges {
         node {
-          excerpt
+          html
           fields {
             slug
           }

@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 
-import { Bio, Layout, SEO } from '../components/index'
+import { Layout, SEO } from '../components/index'
 import { rhythm, scale } from '../utils/typography'
 
 class BlogIndex extends React.Component {
@@ -50,7 +50,10 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/stash/" } }
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
       edges {
         node {
           excerpt
