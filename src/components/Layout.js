@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import { Bio, Elsewhere, Links } from './index'
+import { Bio, Elsewhere, Intro, Links } from './index'
 import { rhythm, scale } from '../utils/typography'
 
 class Layout extends React.Component {
@@ -19,6 +19,7 @@ class Layout extends React.Component {
         }}
       >
         <Bio />
+        {location.pathname === rootPath && <Intro />}
         {children}
         <Links location={location} />
         <Elsewhere />

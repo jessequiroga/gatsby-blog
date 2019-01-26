@@ -1,5 +1,6 @@
 export { default as Bio } from './Bio.js'
 export { default as Elsewhere } from './Elsewhere.js'
+export { default as Intro } from './Intro.js'
 export { default as Layout } from './Layout.js'
 export { default as Links } from './Links.js'
 export { default as PageTitle } from './PageTitle.js'
