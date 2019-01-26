@@ -41,6 +41,8 @@ class PostTemplate extends React.Component {
             justifyContent: `space-between`,
             listStyle: `none`,
             padding: 0,
+            marginBlockStart: 0,
+            marginInlineStart: 0,
           }}
         >
           <li>
