@@ -1,9 +1,7 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 
-import Bio from '../components/Bio'
-import Layout from '../components/Layout'
-import SEO from '../components/SEO'
+import { Bio, Layout, SEO } from '../components/index'
 import { rhythm, scale } from '../utils/typography'
 
 class PostTemplate extends React.Component {
