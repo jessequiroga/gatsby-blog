@@ -2,7 +2,7 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 
 import { Bio, Layout, SEO } from '../components/index'
-import { rhythm } from '../utils/typography'
+import { rhythm, scale } from '../utils/typography'
 
 class BlogIndex extends React.Component {
   render() {
@@ -16,7 +16,7 @@ class BlogIndex extends React.Component {
           title="All posts"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <Bio />
+        <h3 style={{ ...scale(0.25), textTransform: 'uppercase' }}>Stash</h3>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
@@ -24,6 +24,7 @@ class BlogIndex extends React.Component {
               <h3
                 style={{
                   marginBottom: rhythm(1 / 4),
+                  marginTop: '2rem',
                 }}
               >
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
