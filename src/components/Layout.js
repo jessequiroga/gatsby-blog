@@ -22,6 +22,7 @@ class Layout extends React.Component {
         {location.pathname === rootPath && <Intro />}
         {children}
         <Links location={location} />
+        <hr />
         <Elsewhere />
         <footer>
           © {new Date().getFullYear()}, Built with
