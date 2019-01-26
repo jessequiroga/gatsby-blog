@@ -10,9 +10,11 @@ exports.createPages = ({ graphql, actions }) => {
     `
       {
         allMarkdownRemark(
+          filter: { fileAbsolutePath: { regex: "/stash/" } }
           sort: { fields: [frontmatter___date], order: DESC }
           limit: 1000
         ) {
+          totalCount
           edges {
             node {
               fields {
