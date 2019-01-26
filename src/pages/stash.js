@@ -1,10 +1,10 @@
-import React from 'react'
+import React, { Component } from 'react'
 import { Link, graphql } from 'gatsby'
 
-import { Bio, Layout, SEO } from '../components/index'
+import { Layout, PageTitle, SEO } from '../components/index'
 import { rhythm } from '../utils/typography'
 
-class BlogIndex extends React.Component {
+class Stash extends Component {
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
@@ -16,14 +16,15 @@ class BlogIndex extends React.Component {
           title="All posts"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <Bio />
+        <PageTitle title="Stash" link="stash" />
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
-            <div key={node.fields.slug}>
+            <div key={node.fields.slug} style={{ marginBottom: '2.5rem' }}>
               <h3
                 style={{
                   marginBottom: rhythm(1 / 4),
+                  marginTop: '2rem',
                 }}
               >
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
@@ -40,7 +41,7 @@ class BlogIndex extends React.Component {
   }
 }
 
-export default BlogIndex
+export default Stash
 
 export const pageQuery = graphql`
   query {
