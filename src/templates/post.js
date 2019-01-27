@@ -25,6 +25,7 @@ class PostTemplate extends React.Component {
         >
           {post.frontmatter.date}
         </p>
+        <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <p>
           {post.frontmatter.tags.map(tag => (
             <span>
@@ -33,7 +34,6 @@ class PostTemplate extends React.Component {
             </span>
           ))}
         </p>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
             marginBottom: rhythm(1),
@@ -88,7 +88,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "DD MMMM YYYY")
         tags
       }
     }
