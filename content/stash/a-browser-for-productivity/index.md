@@ -6,8 +6,6 @@ tags: ['productivity', 'workplace']
 date: '2019-01-27'
 ---
 
-# A browser for productivity
-
 Working remotely enables you to take control of your environment and minimise distractions. Our Engineering Director at Leaf recently published some really good advise on how to optimise your home office.
 
 Whether in a traditional office, at home or on a phone there is one distraction that every employee wrestles with; the internet. A quick google search reveals that the internet is widely reported as the leading distraction and productivity killer in the workplace.
