@@ -32,14 +32,9 @@ Visual Studio Code (w/ ESLint & Prettier)
 
 ### Timeline (let's walk it back)
 
-#### Things I'm looking forward to in 2019
+#### 2019
 
-<ul class="disc">
-  <li>Investing more time in side-projects</li>
-  <li>Achieving the reading + writing targets I set for myself</li>
-  <li>Getting back into half-marathons</li>
-  <li>Traveling to the US (New York State) and Canada with my husband and parents</li>
-</ul>
+#### For things I'm looking forward to and/or currently focused on visit <a href="/now">/now</a>
 
 #### 2018
 

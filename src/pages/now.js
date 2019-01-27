@@ -13,7 +13,7 @@ class Now extends Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="Now" keywords={[`now`, `gatsby`, `javascript`, `react`]} />
-        <PageTitle title="Now" link="now" />
+        <PageTitle title="/now" link="now" />
         <div dangerouslySetInnerHTML={{ __html: pageContent }} />
       </Layout>
     )

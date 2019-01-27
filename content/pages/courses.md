@@ -12,9 +12,3 @@ title: Courses
   <li><a href="http://www.udemy.com/webpack-2-the-complete-developers-guide/" target="_blank">Webpack 2: The Complete Developer's Guide</a> by Stephen Grider</li>
   <li><a href="http://es6.io/" target="_blank">ES for Everyone</a> by Wes Bos</li>
 </ul>
-
-### In Progress
-
-<ul class="disc">
-  <li><a href="https://www.railsspeed.com/" target="_blank">The Complete Guide to Rails Performance</a> by Nate Berkopec</li>
-</ul>

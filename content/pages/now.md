@@ -2,8 +2,54 @@
 title: Now
 ---
 
-Growing up, I loved art and I loved computers.
+> “You don’t get results by focusing on results. You get results by focusing on the actions that produce results.”
 
-I excelled at anything that allowed me to create or build something. I decided to study Design and Art Direction at The Red & Yellow Creative School of Business, but simply could not shake the coding hobby and freelanced as a web developer throughout my studies and early career. Consequently, my skills have been built up through relentless self-study, loads of curiosity and an above average amount of grit.
+<br/>
 
-I have a keen interest in human behaviour and always strive to surround myself with people who are smarter than me.
+<ul class="disc">
+  <li>Living in Limerick 🇮🇪🐑🍻</li>
+  <li>Working for <a href="http://weareleaf.com" target="_blank">@weareleaf</a> 👩🏼‍💻🌿</li>
+</ul>
+
+#### WHAT I'M CURRENTLY FOCUSED ON
+
+#### Personal
+
+<ul class="disc">
+  <li>Building the habit of getting up at 5am every morning</li>
+  <li>Achieving the reading and writing targets I set for myself</li>
+</ul>
+
+#### Professional
+
+<ul class="disc">
+  <li>Leveling up in terms of TDD</li>
+  <li>Optimising my workflow and productivity so that I can deliver my best work</li>
+</ul>
+
+#### Learning
+
+<ul class="disc">
+  <li>Working my way through the Duolingo Dutch learning tree, reading / listening my way through the Dutch version of the Harry Potter series</li>
+  <li><a href="https://www.railsspeed.com/" target="_blank">The Complete Guide to Rails Performance</a> by Nate Berkopec</li>
+  <li><a href="https://www.udemy.com/machine-learning-with-javascript/learn/v4/overview" target="_blank">Machine Learning with Javascript</a> by Stephen Grider</li>
+</ul>
+
+Overview of previously completed <a href="/courses">courses</a>
+
+#### Health
+
+<ul class="disc">
+  <li>Logging 20km a week, without skimping on my functional training sessions</li>
+  <li>Reaching my 50th parkrun</li>
+</ul>
+
+#### WHAT I'M LOOKING FORWARD TO
+
+<ul class="disc">
+  <li>Running the Killarney Half Marathon</li>
+  <li>Traveling to the US (New York State) and Canada (Toronto / Niagara) with my husband and parents</li>
+</ul>
+
+<small>Last update: 27 January 2019<br/>
+This page is part of the <a href="https://sivers.org/nowff">"The /now page movement"</a></small>
