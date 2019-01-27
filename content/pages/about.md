@@ -19,7 +19,7 @@ I have a keen interest in human behaviour and always strive to surround myself w
   <li>Ruby on Rails, Elixir, Phoenix</li>
 </ul>
 
-#### For things of my workflow tools visit <a href="/uses">/uses</a>
+#### For an overview of my workflow tools visit <a href="/uses">/uses</a>
 
 <br>
 
