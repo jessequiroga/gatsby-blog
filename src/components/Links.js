@@ -19,10 +19,12 @@ function Links({ location }) {
       >
         more
       </h3>
-      {location.pathname === '/' && (
+      {(location.pathname === '/' ||
+        location.pathname.indexOf('stash') === 1 ||
+        location.pathname.indexOf('tags') === 1) && (
         <ul>
           <li>
-            <Link to={'/about'}>about</Link>
+            <Link to={'/about'}>about me</Link>
           </li>
           <li>
             <Link to={'/now'}>now</Link>
@@ -30,18 +32,7 @@ function Links({ location }) {
         </ul>
       )}
 
-      {location.pathname.indexOf('stash') === 1 && (
-        <ul>
-          <li>
-            <Link to={'/about'}>about</Link>
-          </li>
-          <li>
-            <Link to={'/now'}>now</Link>
-          </li>
-        </ul>
-      )}
-
-      {location.pathname === '/about' && (
+      {(location.pathname === '/about' || location.pathname === '/about/') && (
         <ul>
           <li>
             <Link to={'/now'}>now</Link>
@@ -52,10 +43,10 @@ function Links({ location }) {
         </ul>
       )}
 
-      {location.pathname === '/now' && (
+      {(location.pathname === '/now' || location.pathname === '/now/') && (
         <ul>
           <li>
-            <Link to={'/about'}>about</Link>
+            <Link to={'/about'}>about me</Link>
           </li>
           <li>
             <Link to={'/stash'}>stash</Link>

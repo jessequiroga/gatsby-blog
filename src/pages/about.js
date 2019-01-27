@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import { Link, graphql } from 'gatsby'
 
 import { Layout, PageTitle, SEO } from '../components/index'
-import { rhythm, scale } from '../utils/typography'
 
 class About extends Component {
   render() {

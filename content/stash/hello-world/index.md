@@ -1,5 +1,8 @@
 ---
+published: true
+path: '/stash/hello-world'
 title: Dummy Post
+tags: ['animals', 'Chicago', 'zoos']
 date: '2015-05-01T22:12:03.284Z'
 ---
 
