@@ -17,7 +17,7 @@ class BlogIndex extends React.Component {
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
         <h3 style={{ ...scale(0.25), textTransform: 'uppercase' }}>
-          Recently Stash
+          Recently Stashed
         </h3>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
