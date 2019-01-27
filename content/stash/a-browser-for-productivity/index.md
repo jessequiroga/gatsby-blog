@@ -6,7 +6,7 @@ tags: ['productivity', 'workplace']
 date: '2019-01-27'
 ---
 
-Working remotely enables you to take control of your environment and minimise distractions. Our Engineering Director at [Leaf](http://weareleaf.com) recently published some really good advise on how to optimise your home office.
+Working remotely enables you to take control of your environment and minimise distractions. A couple of months ago, our Engineering Director at [Leaf](http://weareleaf.com) published some good advise on how to optimise your [home office](https://medium.com/leaf-software/a-home-office-for-productivity-d23f0aee627b).
 
 Whether in a traditional office, at home or on a phone there is one distraction that every employee wrestles with; the internet. A quick google search reveals that the internet is widely reported as the leading distraction and productivity killer in the workplace.
 

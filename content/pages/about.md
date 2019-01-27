@@ -13,7 +13,7 @@ I have a keen interest in human behaviour and always strive to surround myself w
 ### Experience
 
 <ul>
-  <li>Javascript (React, React-Native, Redux (w/ sagas), ImmutableJS)</li>
+  <li>Javascript, React, React-Native, Redux (w/ sagas), ImmutableJS</li>
   <li>styled-components, Sass</li>
   <li>Webpack, Gulp</li>
   <li>Ruby on Rails, Elixir, Phoenix</li>
