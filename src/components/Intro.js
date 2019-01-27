@@ -16,7 +16,7 @@ function Intro() {
               <del>Cape Town</del> Ireland.
             </p>
             <p>
-              I <del>like</del> love building{' '}
+              I love building{' '}
               <a
                 href={`http://www.github.com/${social.github}`}
                 target="_blank"
