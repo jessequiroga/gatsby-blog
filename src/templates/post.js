@@ -9,6 +9,7 @@ class PostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
+    console.log(post.frontmatter.tags)
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -23,6 +24,14 @@ class PostTemplate extends React.Component {
           }}
         >
           {post.frontmatter.date}
+        </p>
+        <p>
+          {post.frontmatter.tags.map(tag => (
+            <span>
+              <a href={`/tags/${tag}`}>#{`${tag}`}</a>
+              {'  '}
+            </span>
+          ))}
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
@@ -80,6 +89,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        tags
       }
     }
   }
