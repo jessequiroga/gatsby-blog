@@ -10,23 +10,18 @@ I have a keen interest in human behaviour and always strive to surround myself w
 
 <hr>
 
-### Skills & Tools
+### Experience
 
-#### FLUENT
+<ul>
+  <li>Javascript (React, React-Native, Redux (w/ sagas), ImmutableJS)</li>
+  <li>styled-components, Sass</li>
+  <li>Webpack, Gulp</li>
+  <li>Ruby on Rails, Elixir, Phoenix</li>
+</ul>
 
-Javascript, React, React-Native, Redux (w/ sagas), styled-components, ImmutableJS, HTML, CSS, Sass, Gulp, Webpack
+#### For things of my workflow tools visit <a href="/uses">/uses</a>
 
-#### FLUENT, BUT SLIGHTLY LESS CONFIDENT
-
-Ruby on Rails, Elixir, Phoenix, Elasticsearch
-
-#### WORKFLOW TOOLS
-
-Github / Bitbucket, CircleCI, Cypress, Heroku, AWS, Basecamp, Trello, Harvest, Slack, Bear, Sketch
-
-#### EDITOR OF PREFERENCE
-
-Visual Studio Code (w/ ESLint & Prettier)
+<br>
 
 <hr>
 
