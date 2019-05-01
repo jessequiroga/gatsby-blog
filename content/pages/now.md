@@ -30,7 +30,7 @@ title: Now
 #### Learning
 
 <ul class="disc">
-  <li>Working my way through the Duolingo Dutch learning tree, reading / listening my way through the Dutch version of the Harry Potter series</li>
+  <li>Working my way through the Duolingo Dutch learning tree</li>
   <li><a href="https://www.railsspeed.com/" target="_blank">The Complete Guide to Rails Performance</a> by Nate Berkopec</li>
   <li><a href="https://www.udemy.com/machine-learning-with-javascript/learn/v4/overview" target="_blank">Machine Learning with Javascript</a> by Stephen Grider</li>
 </ul>
