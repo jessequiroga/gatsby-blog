@@ -16,7 +16,7 @@ title: Now
 #### Personal
 
 <ul class="disc">
-  <li>Building the habit of getting up at 5am every morning</li>
+  <li>~~Building the habit of getting up at 5am every morning~~ Getting enough sleep</li>
   <li>Achieving the reading and writing targets I set for myself</li>
 </ul>
 
@@ -40,15 +40,15 @@ Overview of previously completed <a href="/courses">courses</a>
 #### Health
 
 <ul class="disc">
-  <li>Logging 20km a week, without skimping on my functional training sessions</li>
-  <li>Reaching my 50th parkrun</li>
+  <li>Reaching my 50th parkrun ✔️</li>
+  <li>Training for my first full marathon</li>
 </ul>
 
 #### WHAT I'M LOOKING FORWARD TO
 
 <ul class="disc">
   <li>Running the Killarney Half Marathon</li>
-  <li>Traveling to the US (New York State) and Canada (Toronto / Niagara) with my husband and parents</li>
+  <li>~~Traveling to the US (New York State) and Canada (Toronto / Niagara) with my husband and parents~~</li>
 </ul>
 
 <small>Last update: 27 January 2019<br/>
