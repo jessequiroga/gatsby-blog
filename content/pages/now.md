@@ -51,5 +51,5 @@ Overview of previously completed <a href="/courses">courses</a>
   <li><del>Traveling to the US (New York State) and Canada (Toronto / Niagara) with my husband and parents</del></li>
 </ul>
 
-<small>Last update: 27 January 2019<br/>
+<small>Last update: 1 May 2019<br/>
 This page is part of the <a href="https://sivers.org/nowff">"The /now page movement"</a></small>
