@@ -40,7 +40,7 @@ Overview of previously completed <a href="/courses">courses</a>
 #### Health
 
 <ul class="disc">
-  <li>Reaching my 50th parkrun ✔️</li>
+  <li><del>Reaching my 50th parkrun</del></li>
   <li>Training for my first full marathon</li>
   <li>Getting stronger</li>
 </ul>
