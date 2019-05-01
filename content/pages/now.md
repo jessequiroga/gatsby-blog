@@ -42,12 +42,15 @@ Overview of previously completed <a href="/courses">courses</a>
 <ul class="disc">
   <li>Reaching my 50th parkrun ✔️</li>
   <li>Training for my first full marathon</li>
+  <li>Getting stronger</li>
 </ul>
 
 #### WHAT I'M LOOKING FORWARD TO
 
 <ul class="disc">
+  <li>Exploring locally and seeing more of Ireland</li>
   <li>Running the Killarney Half Marathon</li>
+  <li><del>Hiking our way through the Wicklow Mountains with Wilco</del></li>
   <li><del>Traveling to the US (New York State) and Canada (Toronto / Niagara) with my husband and parents</del></li>
 </ul>
 
