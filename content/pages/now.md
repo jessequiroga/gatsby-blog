@@ -16,7 +16,7 @@ title: Now
 #### Personal
 
 <ul class="disc">
-  <li><del>Building the habit of getting up at 5am every morning</del> Getting enough sleep</li>
+  <li><del>Building the habit of getting up at 5am</del> Getting enough sleep</li>
   <li>Achieving the reading and writing targets I set for myself</li>
 </ul>
 
