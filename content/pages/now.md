@@ -16,7 +16,7 @@ title: Now
 #### Personal
 
 <ul class="disc">
-  <li>~~Building the habit of getting up at 5am every morning~~ Getting enough sleep</li>
+  <li><del>Building the habit of getting up at 5am every morning</del> Getting enough sleep</li>
   <li>Achieving the reading and writing targets I set for myself</li>
 </ul>
 
@@ -48,7 +48,7 @@ Overview of previously completed <a href="/courses">courses</a>
 
 <ul class="disc">
   <li>Running the Killarney Half Marathon</li>
-  <li>~~Traveling to the US (New York State) and Canada (Toronto / Niagara) with my husband and parents~~</li>
+  <li><del>Traveling to the US (New York State) and Canada (Toronto / Niagara) with my husband and parents</del></li>
 </ul>
 
 <small>Last update: 27 January 2019<br/>
