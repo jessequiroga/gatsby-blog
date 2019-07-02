@@ -10,7 +10,7 @@ Upon visiting the [Leaf website](http://www.weareleaf.com), it won't take you lo
 
 I wanted to apply this thinking to a task we deal with on a daily basis, problem solving.
 
-Depending on the nature of the problem at hand, it can be an overwhelming task. Solving a complex problem or crushing a pesky software bug has the potential to make you feel like a hero, just to shatter your ego minutes later. Breaking it up into practical steps leaves you with a process to fall back on and help you stay focused when solving particularly irksome and elusive problems.
+Depending on the nature of the problem at hand, it can be an overwhelming task. Solving a complex problem or crushing a pesky software bug has the potential to make you feel like a hero, just to shatter your ego minutes later. Breaking it up into practical steps leaves you with a process to fall back on and help you stay focused when solving a particularly irksome or elusive problem.
 
 This article outlines the pragmatic framework I use to approach problems, it's aimed at software engineering, but can be just as useful in day-to-day life or when tackling other work-related tasks and it's as easy as 1, 2...5.
 
@@ -41,7 +41,7 @@ It's imperative to form a solid understanding of the problem and associated elem
       will likely steer you in the right direction.
     </li>
     <li>
-      <p>can prevent wasting valuable time by going down any unnecessary rabbit holes.</p>
+      <p>can prevent wasting valuable time by going down  unnecessary rabbit holes.</p>
     </li>
     <li>
       <p>will be beneficial when updating your test coverage to flag and prevent the behaviour in future.</p>
@@ -52,21 +52,22 @@ It's imperative to form a solid understanding of the problem and associated elem
 #### How?
 
 <ul>
-  <li><b>Read the error message</b><p>If the error message doesn't appear in your browser or bug tracker, check your logs. Read the error in it's entirety. More often than not, the error message will point you directly to the problem and even suggest a possible solution or refer you straight to the documentation. Then read it again.</p>
+  <li><b>Read the error message</b><p>Then read it again. If the error message doesn't appear in your browser or bug tracker, check your logs. Read the error in it's entirety. More often than not, the error message will point you directly to the problem and even suggest a possible solution or refer you straight to the documentation.</p>
   </li>
-  <li><b>Ensure that you have a sufficient familiarity with the particular function or framework</b> (RTFM)</li>
+  <li><b>Ensure that you have sufficient familiarity with the particular function or framework</b> (RTFM)</li>
   <li>
     If your code was compiling previously, <b>walk it back</b>. Comparing your current version of the code base with the working branch could help you isolate the problem. If the error is occuring on a specific environment, use a process of elimination to determine what the difference is, environment variables is a good place to start.
   </li>
   <li>
     <b>Eliminate Assumptions</b>
     <p>
-      Assumptions (and denial) are the root of all evil. Remember when you where looking for an item in your apartment, whilst telling yourself that it's not <i>there</i>, just to find an hour later that it was in fact <i>there</i>. The same applies to problem solving.
+      Assumptions (and denial) are the root of all evil. Remember the last time you where looking for an item in your apartment, whilst telling yourself that it's not <i>there</i>, just to find an hour later that it was in fact <i>there</i>? The same applies to problem solving.
     </p>
-    <p>
-      Debug as thoroughly and transparently as possible. Some variables might not have the expected values assigned to them.
-    <p>
-    Investing time in familiarising yourself with your Dev Tools will most definitely pay off in the long run. <a href="https://twitter.com/stolinski"  target="_blank" >@stolinsky</a> and <a href="https://twitter.com/wesbos"  target="_blank" >@wesbos</a> recently did a good <a href="https://twitter.com/syntaxfm"  target="_blank" >@syntaxfm</a> episode on debugging.
+    Debug as thoroughly and transparently as possible. Look in the unexpected places. Some variables might not have the expected values assigned to them.
+  </li>
+  <li>
+    <b>Embrace your tools</b>
+    <p>Investing time in familiarising yourself with your Dev Tools will most definitely pay off in the long run. <a href="https://twitter.com/stolinski"  target="_blank" >@stolinsky</a> and <a href="https://twitter.com/wesbos"  target="_blank" >@wesbos</a> recently did a good <a href="https://twitter.com/syntaxfm"  target="_blank" >@syntaxfm</a> episode on debugging.</p>
     </p>
     <iframe src="https://open.spotify.com/embed-podcast/episode/3xo35XDcLxlODRItBSEQEb" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
     The episode mainly focusses on Javascript, killing CLDD (Console Log Driven Development) and using Chrome's built-in Debugger.
@@ -141,7 +142,7 @@ Assuming that you managed to solve your problem whilst exploring possible soluti
 
 #### Why?
 
-It comes back to the ladder reference (3). There's a good chance you've learned something valuable during the problem solving process and it's important that you share it, there's something comforting about it, it encourages others to do the same and is beneficial to your company culture.
+It comes back to the ladder reference (3). There's a good chance you've learned something valuable during the problem solving process and it's important that you share it. There's something comforting about it, it encourages others to do the same and it will give your culture a boost.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve had multiple people tell me they thought security work / CTFs were out of reach for them but my streams showed them otherwise <br><br>you climb the wall and you drop down a ladder for those behind you</p>&mdash; bletchley punk (@alicegoldfuss) <a href="https://twitter.com/alicegoldfuss/status/1142872874832674818?ref_src=twsrc%5Etfw">June 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
