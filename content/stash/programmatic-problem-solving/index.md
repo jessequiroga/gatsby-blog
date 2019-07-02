@@ -8,9 +8,9 @@ date: '2019-07-02'
 
 Upon visiting the [Leaf website](http://www.weareleaf.com), it won't take you long to conclude that we're process driven. We love simplifying complex tasks and increasing efficiency by implementing the right processes.
 
-Problem solving is no exception to that rule and, depending on the problem at hand, can be an overwhelming task. Solving a complex problem or crushing a pesky software bug can make you feel like a hero, just to shatter your ego minutes later.
+I wanted to apply this thinking to a task we deal with on a daily basis, problem solving.
 
-By following a pragmatic approach to problem solving, you can limit the often overwhelming feeling that comes with a particularly irksome problem.
+Depending on the nature of the problem at hand, it can be an overwhelming task. Solving a complex problem or crushing a pesky software bug has the potential to make you feel like a hero, just to shatter your ego minutes later. Breaking it up into practical steps leaves you with a process to fall back on and help you stay focused when solving particularly irksome and elusive problems.
 
 This article outlines the pragmatic framework I use to approach problems, it's aimed at software engineering, but can be just as useful in day-to-day life or when tackling other work-related tasks and it's as easy as 1, 2...5.
 
@@ -24,7 +24,7 @@ This article outlines the pragmatic framework I use to approach problems, it's a
 
 ## 1. Identify and understand the problem
 
-First, we need to figure out what we're dealing with. This is easier said than done, often what appears to be the root cause is merely a symptom.
+Before we can tame the beast, we first need to figure out exactly what we're dealing with. This is easier said than done, often what appears to be the root cause of your problem is merely a symptom.
 
 #### Why?
 
@@ -38,10 +38,10 @@ It's imperative to form a solid understanding of the problem and associated elem
       <blockquote class="twitter-tweet"><p lang="en" dir="ltr">7. Getting stuck and spending a day figuring out what could have been solved in 10 mins by asking for help.</p>&mdash; Mike Carter (@mcarterj) <a href="https://twitter.com/mcarterj/status/1143626584655650816?ref_src=twsrc%5Etfw">June 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </li>
     <li>
-      will likely steer you in the right direction
+      will likely steer you in the right direction.
     </li>
     <li>
-      <p>can prevent wasting valuable time by going down any unnecessary rabbit holes</p>
+      <p>can prevent wasting valuable time by going down any unnecessary rabbit holes.</p>
     </li>
     <li>
       <p>will be beneficial when updating your test coverage to flag and prevent the behaviour in future.</p>
