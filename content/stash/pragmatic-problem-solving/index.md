@@ -118,6 +118,7 @@ In the words of Albert Einstein
   <li><b>Look for the ladder</b>
   <p>More often than not, somebody else has climbed the same wall you find yourself in front of and have kindly rolled down a ladder in the shape of a Stack Overflow answer or a Github Issue.</p>
   </li>
+  <li><b>Make incremental changes where possible</b></li>
   <li><b>Trust in your own ability</b></li>
   <li><b>Raise your hand</b></li>
   <li><b>Still stuck?</b> Get some fresh air! Thank me later.</li>
