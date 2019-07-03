@@ -1,7 +1,7 @@
 ---
 published: true
 path: '/stash/pragmatic-problem-solving'
-title: Pragmatic Problem Solving
+title: Pragmatic problem solving
 tags: ['problem-solving']
 date: '2019-07-02'
 ---
