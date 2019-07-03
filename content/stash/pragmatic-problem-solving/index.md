@@ -12,23 +12,23 @@ I wanted to apply this thinking to a task we deal with on a daily basis, problem
 
 Depending on the nature of the problem at hand, it can be an overwhelming task. Solving a complex problem or crushing a pesky software bug has the potential to make you feel like a hero, just to shatter your ego minutes later. Breaking it up into practical steps leaves you with a process to fall back on and help you stay focused when solving a particularly irksome or elusive problem.
 
-This article outlines the pragmatic framework I use to approach problems, it's aimed at software engineering, but can be just as useful in day-to-day life or when tackling other work-related tasks and it's as easy as 1, 2...5.
+This article outlines the pragmatic framework I use to approach problems. It's aimed at software engineering, but can be just as useful in day-to-day life or when tackling other work-related tasks and it's as easy as 1, 2...5.
 
 <ol>
-  <li>Identify & Understand</li>
+  <li>Identify</li>
   <li>Iterate</li>
   <li>Explore</li>
   <li>Implement</li>
-  <li>Pass it on</li>
+  <li>Share</li>
 </ol>
 
 ## 1. Identify and understand the problem
 
-Before we can tame the beast, we first need to figure out exactly what we're dealing with. This is easier said than done, often what appears to be the root cause of your problem is merely a symptom.
+Before we can tame the beast, we must name the beast. Figuring out what exactly we're dealing with can be easier said than done, often what appears to be the root cause of your problem is merely a symptom.
 
 #### Why?
 
-It's imperative to form a solid understanding of the problem and associated elements before trying to solve it.
+It's imperative to form a solid understanding of the problem before trying to solve it.
 
 <p>
   An in depth understanding...
@@ -63,7 +63,7 @@ It's imperative to form a solid understanding of the problem and associated elem
     <p>
       Assumptions (and denial) are the root of all evil. Remember the last time you where looking for an item in your apartment, whilst telling yourself that it's not <i>there</i>, just to find an hour later that it was in fact <i>there</i>? The same applies to problem solving.
     </p>
-    Debug as thoroughly and transparently as possible. Look in the unexpected places. Some variables might not have the expected values assigned to them.
+    Debug as thoroughly and transparently as possible. Look in the least likely places. Some variables might not have the expected values assigned to them.
   </li>
   <li>
     <b>Embrace your tools</b>
@@ -138,7 +138,7 @@ Assuming that you managed to solve your problem whilst exploring possible soluti
   <li>Update stakeholders</li>
 </ul>
 
-## 5. Pass it on
+## 5. Share
 
 #### Why?
 
