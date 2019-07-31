@@ -8,11 +8,13 @@ date: '2019-07-31'
 
 Developing an environment in which you and your team are consistently sharing and learning new things is crucial to surviving in the fast-paced world we find ourselves in. According to HackerRank’s 2019 Developer Skills Report professional growth matters most to developers when looking for a new job.
 
-“The most important factors for developers, across all job levels and functions, was the opportunity for professional growth and work-life balance.”
+> “The most important factors for developers, across all job levels and functions, was the opportunity for professional growth and work-life balance.”
 
 The word “culture” can easily be substituted with “mindset” in this article, as it’s just as applicable to one man bands. So, whether you’re a company or an individual, here are 6 effective ways in which to cultivate a continuous learning environment.
 
 ## 1. Read widely, make it a habit
+
+Not twitter, real books.
 
 ## 2. Keep smart company
 
@@ -24,7 +26,9 @@ It’s really, quite simple: [See one, do one, teach one](https://pjrvs.com/doon
 
 If you require further incentive, [learning by teaching has proven to be extremely effective.](https://digest.bps.org.uk/2018/05/04/learning-by-teaching-others-is-extremely-effective-a-new-study-tested-a-key-reason-why/)
 
-## 4. [Keep a list of things you want to learn](https://github.com/tinavanschelt/lifelong-learning/)
+## 4. Keep a list of things you want to learn
+
+I use [github](https://github.com/tinavanschelt/lifelong-learning/)
 
 ## 5. Start your own (side) project
 
@@ -34,3 +38,4 @@ Internal or side projects are a great opportunity to experiment with new tools a
 
 Laura Vanderkam laid this out beautifully in her 2012 Wall Street Journal article: [Are you as busy as you think?](https://lauravanderkam.com/2012/06/busy-think-2/)
 
+![Laura Vanderkam Quote](./priority-laura-vanderkam.jpg)
