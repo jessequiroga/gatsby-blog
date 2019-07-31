@@ -32,7 +32,7 @@ I use [github](https://github.com/tinavanschelt/lifelong-learning/)
 
 ## 5. Start your own (side) project
 
-Internal or side projects are a great opportunity to experiment with new tools and frameworks.
+Internal or side projects are a great opportunity to accelerate learning and experiment with new tools and frameworks.
 
 ## 6. Prioritise learning
 
