@@ -6,7 +6,9 @@ tags: ['problem-solving']
 date: '2019-07-02'
 ---
 
-Depending on the nature of the problem at hand, it can be an overwhelming task. Solving a complex problem or crushing a pesky software bug has the potential to make you feel like a hero, just to shatter your ego minutes later. Breaking it up into practical steps leaves you with a process to fall back on and help you stay focused when solving a particularly irksome or elusive problem.
+Depending on the nature of the problem at hand, problem solving can be an overwhelming task. 
+
+Solving a complex problem or crushing a pesky software bug has the potential to make you feel like a hero, just to shatter your ego minutes later. Breaking it up into practical steps leaves you with a process to fall back on and help you stay focused when solving a particularly irksome or elusive problem.
 
 This article outlines the pragmatic framework I use to approach problems. It's aimed at software engineering, but can be just as useful in day-to-day life or when tackling other work-related tasks and it's as easy as 1, 2...5.
 
@@ -20,21 +22,19 @@ This article outlines the pragmatic framework I use to approach problems. It's a
 
 ## 1. Identify and understand the problem
 
-Before we can tame the beast, we must name the beast. Figuring out what exactly we're dealing with can be easier said than done, often what appears to be the root cause of your problem is merely a symptom.
+Before we can tame the beast, we must name the beast. Figuring out what exactly we're dealing with can be easier said than done, often what appears to be the root cause of your problem is merely a symptom. 
 
 #### Why?
-
-It's imperative to form a solid understanding of the problem before trying to solve it.
 
 <p>
   An in depth understanding...
   <ul>
     <li>
-      <p>makes it easier to ask for help, which (as our Engineering Director at Leaf recently pointed out), can prevent wasting valuable time</p>
-      <blockquote class="twitter-tweet"><p lang="en" dir="ltr">7. Getting stuck and spending a day figuring out what could have been solved in 10 mins by asking for help.</p>&mdash; Mike Carter (@mcarterj) <a href="https://twitter.com/mcarterj/status/1143626584655650816?ref_src=twsrc%5Etfw">June 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      will help you to <b>isolate</b> the problem.
     </li>
     <li>
-      will likely steer you in the right direction.
+      <p>makes it easier to ask for help, which (as our Engineering Director at Leaf recently pointed out), can prevent wasting valuable time</p>
+      <blockquote class="twitter-tweet"><p lang="en" dir="ltr">7. Getting stuck and spending a day figuring out what could have been solved in 10 mins by asking for help.</p>&mdash; Mike Carter (@mcarterj) <a href="https://twitter.com/mcarterj/status/1143626584655650816?ref_src=twsrc%5Etfw">June 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </li>
     <li>
       <p>will be beneficial when updating your test coverage to flag and prevent the behaviour in future.</p>
@@ -45,7 +45,7 @@ It's imperative to form a solid understanding of the problem before trying to so
 #### How?
 
 <ul>
-  <li><b>Read the error message</b><p>Then read it again. If the error message doesn't appear in your browser or bug tracker, check your logs. Read the error in it's entirety. More often than not, the error message will point you directly to the problem and even suggest a possible solution or refer you straight to the documentation.</p>
+  <li><b>Read the error message</b><p>Read it again. Read the error in it's entirety. More often than not, the error message will point you directly to the problem and even suggest a possible solution or refer you straight to the documentation.</p>
   </li>
   <li><b>Ensure that you have sufficient familiarity with the particular function or framework</b> (RTFM)</li>
   <li>
@@ -53,10 +53,7 @@ It's imperative to form a solid understanding of the problem before trying to so
   </li>
   <li>
     <b>Eliminate Assumptions</b>
-    <p>
-      Assumptions (and denial) are the root of all evil. Remember the last time you where looking for an item in your apartment, whilst telling yourself that it's not <i>there</i>, just to find an hour later that it was in fact <i>there</i>? The same applies to problem solving.
-    </p>
-    Debug as thoroughly and transparently as possible. Look in the least likely places. Some variables might not have the expected values assigned to them.
+    <p>Assumptions (and denial) are the root of all evil. Debug as thoroughly and transparently as possible. Look in the least likely places. Some variables might not have the expected values assigned to them.
   </li>
   <li>
     <b>Embrace your tools</b>
