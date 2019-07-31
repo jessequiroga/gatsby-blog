@@ -13,34 +13,16 @@ Solving a complex problem or crushing a pesky software bug has the potential to 
 This article outlines the pragmatic framework I use to approach problems. It's aimed at software engineering, but can be just as useful in day-to-day life or when tackling other work-related tasks and it's as easy as 1, 2...5.
 
 <ol>
-  <li>Identify</li>
+  <li>Isolate</li>
   <li>Iterate</li>
   <li>Explore</li>
-  <li>Implement</li>
+  <li>Execute</li>
   <li>Share</li>
 </ol>
 
-## 1. Identify and understand the problem
+## 1. Isolate
 
-Before we can tame the beast, we must name the beast. Figuring out what exactly we're dealing with can be easier said than done, often what appears to be the root cause of your problem is merely a symptom. 
-
-#### Why?
-
-<p>
-  An in depth understanding...
-  <ul>
-    <li>
-      will help you to <b>isolate</b> the problem.
-    </li>
-    <li>
-      <p>makes it easier to ask for help, which (as our Engineering Director at Leaf recently pointed out), can prevent wasting valuable time</p>
-      <blockquote class="twitter-tweet"><p lang="en" dir="ltr">7. Getting stuck and spending a day figuring out what could have been solved in 10 mins by asking for help.</p>&mdash; Mike Carter (@mcarterj) <a href="https://twitter.com/mcarterj/status/1143626584655650816?ref_src=twsrc%5Etfw">June 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-    </li>
-    <li>
-      <p>will be beneficial when updating your test coverage.</p>
-    </li>
-  </ul>
-</p>
+Figuring out what exactly you're dealing with can be easier said than done, often what appears to be the root cause of your problem is merely a symptom. 
 
 #### How?
 
@@ -50,7 +32,6 @@ Before we can tame the beast, we must name the beast. Figuring out what exactly 
   <li><b>Walk it back</b> to a previously compiling version, then incrementally forward</li>
   <li><b>Use a process of elimination</b> If the error is occuring on a specific environment, environment variables is a good place to start.
   </li>
-  <li><b>Eliminate Assumptions</b> Assumptions (and denial) are the root of all evil. Debug as transparently as possible.</li>
   <li>
     <b>Embrace your tools</b>
     <p>Investing time in familiarising yourself with your Dev Tools will most definitely pay off in the long run. <a href="https://twitter.com/stolinski"  target="_blank" >@stolinsky</a> and <a href="https://twitter.com/wesbos"  target="_blank" >@wesbos</a> recently did a good <a href="https://twitter.com/syntaxfm"  target="_blank" >@syntaxfm</a> episode on debugging.</p>
@@ -69,9 +50,13 @@ As outlined in <a href="https://pragprog.com/book/tpp20/the-pragmatic-programmer
 <blockquote>It sounds simple, but in explaining the problem to another person you must explicitly state things that you may take for granted when going through the code yourself. By having to verbalize some of these assumptions, you may suddenly
 gain new insight into the problem.</blockquote>
 
+Iterating over the behaviour with different data sets helps us to understand the problem. And an in depth understanding makes it easier to ask for help, which (as our Engineering Director at Leaf recently pointed out), can prevent wasting valuable time</p>
+      <blockquote class="twitter-tweet"><p lang="en" dir="ltr">7. Getting stuck and spending a day figuring out what could have been solved in 10 mins by asking for help.</p>&mdash; Mike Carter (@mcarterj) <a href="https://twitter.com/mcarterj/status/1143626584655650816?ref_src=twsrc%5Etfw">June 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 #### How?
 
 <ul>
+<li><b>Eliminate Assumptions</b> Assumptions (and denial) are the root of all evil. Debug as transparently as possible.</li>
 <li>Write pseudo code</li>
 <li>Talk over the problem with a co-worker (or a <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank">rubber duck</a>)</li>
 </ul>
@@ -98,7 +83,7 @@ In the words of Albert Einstein
   <li><b>Still stuck?</b> Get some fresh air! Thank me later.</li>
 </ul>
 
-## 4. Implement your solution
+## 4. Execute your solution
 
 #### Why?
 
