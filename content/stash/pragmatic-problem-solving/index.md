@@ -6,10 +6,6 @@ tags: ['problem-solving']
 date: '2019-07-02'
 ---
 
-Upon visiting the [Leaf website](http://www.weareleaf.com), it won't take you long to conclude that we're process driven. We love simplifying complex tasks and increasing efficiency by implementing the right processes.
-
-I wanted to apply this thinking to a task we deal with on a daily basis, problem solving.
-
 Depending on the nature of the problem at hand, it can be an overwhelming task. Solving a complex problem or crushing a pesky software bug has the potential to make you feel like a hero, just to shatter your ego minutes later. Breaking it up into practical steps leaves you with a process to fall back on and help you stay focused when solving a particularly irksome or elusive problem.
 
 This article outlines the pragmatic framework I use to approach problems. It's aimed at software engineering, but can be just as useful in day-to-day life or when tackling other work-related tasks and it's as easy as 1, 2...5.
@@ -34,14 +30,11 @@ It's imperative to form a solid understanding of the problem before trying to so
   An in depth understanding...
   <ul>
     <li>
-      <p>makes it easier to ask for help. Something, as our Engineering Director recently pointed out, many developers struggle with.</p>
+      <p>makes it easier to ask for help, which (as our Engineering Director at Leaf recently pointed out), can prevent wasting valuable time</p>
       <blockquote class="twitter-tweet"><p lang="en" dir="ltr">7. Getting stuck and spending a day figuring out what could have been solved in 10 mins by asking for help.</p>&mdash; Mike Carter (@mcarterj) <a href="https://twitter.com/mcarterj/status/1143626584655650816?ref_src=twsrc%5Etfw">June 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </li>
     <li>
       will likely steer you in the right direction.
-    </li>
-    <li>
-      <p>can prevent wasting valuable time by going down  unnecessary rabbit holes.</p>
     </li>
     <li>
       <p>will be beneficial when updating your test coverage to flag and prevent the behaviour in future.</p>
@@ -88,16 +81,7 @@ gain new insight into the problem</blockquote>
 
 <ul>
 <li>Write pseudo code</li>
-
-```
-Enter two numbers
-Click button
-Add the numbers together
-Render Result
-```
-
 <li>Talk over the problem with a co-worker (or a <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank">rubber duck</a>)</li>
-<li>Both of the above techniques work best when using different data sets</li>
 </ul>
 
 ## 3. Explore solutions
