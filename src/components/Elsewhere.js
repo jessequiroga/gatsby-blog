@@ -28,14 +28,6 @@ function Elsewhere() {
             <ul>
               <li>
                 <a
-                  href={`http://www.twitter.com/${social.twitter}`}
-                  target="_blank"
-                >
-                  twitter
-                </a>
-              </li>
-              <li>
-                <a
                   href={`http://www.github.com/${social.github}`}
                   target="_blank"
                 >
@@ -56,7 +48,6 @@ const ElsewhereQuery = graphql`
       siteMetadata {
         author
         social {
-          twitter
           github
         }
       }

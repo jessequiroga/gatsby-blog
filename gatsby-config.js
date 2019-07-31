@@ -5,7 +5,6 @@ module.exports = {
     description: `A personal site built with gatsby-starter-blog.`,
     siteUrl: `https://tinavanschelt.com/`,
     social: {
-      twitter: `tinavanschelt`,
       github: `tinavanschelt`,
     },
   },

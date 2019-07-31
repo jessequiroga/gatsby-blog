@@ -49,7 +49,6 @@ const IntroQuery = graphql`
       siteMetadata {
         author
         social {
-          twitter
           github
         }
       }

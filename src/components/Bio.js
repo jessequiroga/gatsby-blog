@@ -35,7 +35,7 @@ function Bio({ hasBlurp }) {
             {hasBlurp && (
               <p style={{ lineHeight: '1.5em', padding: '0.7em 0' }}>
                 Written by{' '}
-                <a href={`https://twitter.com/${social.twitter}`}>{author}</a>{' '}
+                <a href={`/about`}>{author}</a>{' '}
                 <br /> A product-focused software developer based in Ireland.
               </p>
             )}
@@ -58,9 +58,6 @@ const bioQuery = graphql`
     site {
       siteMetadata {
         author
-        social {
-          twitter
-        }
       }
     }
   }
