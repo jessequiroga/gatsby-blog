@@ -6,11 +6,11 @@ tags: ['culture']
 date: '2019-07-31'
 ---
 
-Developing an environment in which you and your team are consistently sharing and learning new things is crucial to surviving in the fast-paced world we find ourselves in. According to HackerRank’s 2019 Developer Skills Report professional growth matters most to developers when looking for a new job.
+Developing an environment in which you and your team are consistently sharing and learning new things is crucial to surviving in the fast-paced world we find ourselves in. According to [HackerRank’s 2019 Developer Skills Report](http://hr.gs/frmlyn) professional growth is the factor that matters most to developers when looking for a new job.
 
 > “The most important factors for developers, across all job levels and functions, was the opportunity for professional growth and work-life balance.”
 
-The word “culture” can easily be substituted with “mindset” in this article. Whether you’re a company or an individual, here are 6 effective ways in which to cultivate a continuous learning environment.
+The word “culture” can easily be substituted with “mindset” in this article. Whether you’re a company or a one man band, here are 6 effective ways in which to cultivate a continuous learning environment.
 
 ## 1. Read widely, make it a habit
 
