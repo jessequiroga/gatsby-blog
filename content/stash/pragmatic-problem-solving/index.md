@@ -22,7 +22,7 @@ This article outlines the pragmatic framework I use to approach problems.
 
 ## 1. Isolate
 
-Figuring out what exactly you're dealing with can be easier said than done, often what appears to be the root cause of your problem is merely a symptom. 
+Often what appears to be the root cause of the problem is merely a symptom. We much first identify and isolate the problem.
 
 #### How?
 
@@ -43,8 +43,6 @@ Figuring out what exactly you're dealing with can be easier said than done, ofte
 
 ## 2. Iterate over the behaviour
 
-#### Why?
-
 As outlined in <a href="https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition" target="_blank">The Pragmatic Programmer, from Journeyman to Master</a> by <a href="https://twitter.com/pragmaticandy" target="_blank">Andy Hunt</a>
 
 <blockquote>It sounds simple, but in explaining the problem to another person you must explicitly state things that you may take for granted when going through the code yourself. By having to verbalize some of these assumptions, you may suddenly
@@ -62,8 +60,6 @@ Iterating over the behaviour with different data sets helps us to understand the
 </ul>
 
 ## 3. Explore solutions
-
-#### Why?
 
 In the words of Albert Einstein
 
@@ -85,26 +81,20 @@ In the words of Albert Einstein
 
 ## 4. Execute your solution
 
-#### Why?
-
-Assuming that you managed to solve your problem whilst exploring possible solutions <i>and</i> that the initial implementation was somewhat experimental. It's a good idea to do a quick code review to make sure the implementation is up to scratch and that your test coverage is up to date and ready to catch this particular scenario should it pop-up again.
+Assuming that you managed to solve your problem whilst exploring possible solutions <i>and</i> that the initial implementation was somewhat experimental. It's a good idea to do a quick code review to make sure the implementation and your test coverage is up to scratch.
 
 #### How?
 
 <ul>
   <li>Review the code</li>
-  <li>Refactor as needed and ensure that the code is in keeping with the rest of the code base</li>
-  <li>Update your test suite</li>
+  <li>Refactor as needed</li>
+  <li>Update tests</li>
   <li>Update stakeholders</li>
 </ul>
 
 ## 5. Share
 
-#### Why?
-
-It comes back to the ladder reference (3). There's a good chance you've learned something valuable during the problem solving process and it's important that you share it. There's something comforting about it, it encourages others to do the same and it will give your culture a boost.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve had multiple people tell me they thought security work / CTFs were out of reach for them but my streams showed them otherwise <br><br>you climb the wall and you drop down a ladder for those behind you</p>&mdash; bletchley punk (@alicegoldfuss) <a href="https://twitter.com/alicegoldfuss/status/1142872874832674818?ref_src=twsrc%5Etfw">June 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+It comes back to the ladder reference. There's a good chance you've learned something valuable during the problem solving process and it's important that you share it. Teaching is one of the most effective ways of learning, it encourages others to do the same and it will give your culture a boost.
 
 #### How?
 
