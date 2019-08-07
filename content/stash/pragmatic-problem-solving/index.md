@@ -24,18 +24,12 @@ This article outlines the pragmatic framework I use to approach problems.
 
 Often what appears to be the root cause of the problem is merely a symptom. We much first identify and isolate the problem.
 
-#### How?
-
 <ul>
-  <li><b>Read the error message. Read it again.</b></li>
-  <li><b>Ensure that you have sufficient familiarity with the particular language / framework</b> (RTFM)</li>
-  <li><b>Walk it back</b> to a previously compiling version, then incrementally forward</li>
-  <li><b>Use a process of elimination</b> If the error is occuring on a specific environment, environment variables is a good place to start.
+  <li>Read the error message. Read it again.</b></li>
+  <li>Ensure that you have sufficient familiarity with the particulars (language / framework / debugger), if not, make the investment</b>
   </li>
-  <li>
-    <b>Embrace your tools</b>
-    <p>Investing time in familiarising yourself with your Dev Tools will most definitely pay off in the long run.</p>
-  </li>
+  <li>Revert to a previously compiling version, then make incremental updates</li>
+  <li>Use a process of elimination</li>
 </ul>
 
 ## 2. Iterate over the behaviour
@@ -48,10 +42,8 @@ gain new insight into the problem.</blockquote>
 Iterating over the behaviour with different data sets helps us to understand the problem. And an in depth understanding makes it easier to ask for help, which (as our Engineering Director at Leaf recently pointed out), can prevent wasting valuable time</p>
       <blockquote class="twitter-tweet"><p lang="en" dir="ltr">7. Getting stuck and spending a day figuring out what could have been solved in 10 mins by asking for help.</p>&mdash; Mike Carter (@mcarterj) <a href="https://twitter.com/mcarterj/status/1143626584655650816?ref_src=twsrc%5Etfw">June 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#### How?
-
 <ul>
-<li><b>Eliminate Assumptions</b> Assumptions (and denial) are the root of all evil. Debug as transparently as possible.</li>
+<li>Eliminate Assumptions. Assumptions (and denial) are the root of all evil. Debug as transparently as possible.</li>
 <li>Write pseudo code</li>
 <li>Talk over the problem with a co-worker (or a <a href="https://en.wikipedia.org/wiki/Rubber_duck_debugging" target="_blank">rubber duck</a>)</li>
 </ul>
@@ -62,25 +54,19 @@ In the words of Albert Einstein
 
 <blockquote>We cannot solve our problems with the same thinking we used when we created them.</blockquote>
 
-#### How?
-
 <ul>
-  <li><b>Refer to the Documentation</b></li>
-  <li><b>Utilise Github</b></li>
-  <li><b>Look for the ladder</b>
-  <p>More often than not, somebody else has climbed the same wall you find yourself in front of and have kindly rolled down a ladder in the shape of a Stack Overflow answer or a Github Issue.</p>
+  <li>RTFM</li>
+  <li>Utilise Github</li>
+  <li>Look for the ladder. More often than not, somebody else has climbed the same wall you find yourself in front of and have kindly rolled down a ladder in the shape of a Stack Overflow answer or a Github Issue.</p>
   </li>
-  <li><b>Make incremental changes where possible</b></li>
-  <li><b>Trust in your own ability</b></li>
-  <li><b>Raise your hand</b></li>
-  <li><b>Still stuck?</b> Get some fresh air! Thank me later.</li>
+  <li>Trust in your own ability</li>
+  <li>Raise your hand</li>
+  <li>Still stuck? Get some fresh air! Thank me later.</li>
 </ul>
 
 ## 4. Execute your solution
 
 Assuming that you managed to solve your problem whilst exploring possible solutions <i>and</i> that the initial implementation was somewhat experimental. It's a good idea to do a quick code review to make sure the implementation and your test coverage is up to scratch.
-
-#### How?
 
 <ul>
   <li>Review the code</li>
@@ -92,8 +78,6 @@ Assuming that you managed to solve your problem whilst exploring possible soluti
 ## 5. Share
 
 It comes back to the ladder reference. There's a good chance you've learned something valuable during the problem solving process and it's important that you share it. Teaching is one of the most effective ways of learning, it encourages others to do the same and it will give your culture a boost.
-
-#### How?
 
 <ul>
   <li>Share it with your team mates (I usually post a quick message in an approriate slack channel)</li>
