@@ -34,10 +34,7 @@ Often what appears to be the root cause of the problem is merely a symptom. We m
   </li>
   <li>
     <b>Embrace your tools</b>
-    <p>Investing time in familiarising yourself with your Dev Tools will most definitely pay off in the long run. <a href="https://twitter.com/stolinski"  target="_blank" >@stolinsky</a> and <a href="https://twitter.com/wesbos"  target="_blank" >@wesbos</a> recently did a good <a href="https://twitter.com/syntaxfm"  target="_blank" >@syntaxfm</a> episode on debugging.</p>
-    </p>
-    <iframe src="https://open.spotify.com/embed-podcast/episode/3xo35XDcLxlODRItBSEQEb" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-    The episode mainly focusses on Javascript, killing CLDD (Console Log Driven Development) and using Chrome's built-in Debugger.
+    <p>Investing time in familiarising yourself with your Dev Tools will most definitely pay off in the long run.</p>
   </li>
 </ul>
 
