@@ -30,7 +30,7 @@ I have a keen interest in human behaviour and always strive to surround myself w
 #### 2019
 
 <ul class="disc">
-  <li>Ran my first marathon (Dublin 2019, 4:18:04)</li>
+  <li>Ran my first marathon (Dublin 2019, 4:18:04) and 50th Parkrun (March 2019)</li>
   <li>Travelled through Ireland with Kevin (and Wilco)</li>
   <li>Travelled to Ontario (Toronto, Niagara Falls), New York State (Finger Lakes Distric, NYC), Northern Ireland and Wales</li> 
   <li>Started studing at the University of Derby Online (BSc (Hons) Computing and Information Technologies)</li>
