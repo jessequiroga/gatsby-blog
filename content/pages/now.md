@@ -51,5 +51,5 @@ Overview of previously completed <a href="/courses">courses</a>
   <li>Running the Connemara Marathon</li>
 </ul>
 
-<small>Last update: 1 May 2019<br/>
+<small>Last update: 30/10/2019<br/>
 This page is part of the <a href="https://sivers.org/nowff">"The /now page movement"</a></small>
