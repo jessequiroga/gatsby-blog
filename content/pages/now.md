@@ -31,7 +31,7 @@ title: Now
 #### Learning
 
 <ul class="disc">
-  <li>Working my way though <a href="https://www.oreilly.com/library/view/head-first-design/0596007124/" target="_blank">Head First Design Patterns</a></li>
+  <li>Working my way through <a href="https://www.oreilly.com/library/view/head-first-design/0596007124/" target="_blank">Head First Design Patterns</a></li>
   <li><a href="https://www.udemy.com/machine-learning-with-javascript/learn/v4/overview" target="_blank">Machine Learning with Javascript</a> by Stephen Grider</li>
 </ul>
 
