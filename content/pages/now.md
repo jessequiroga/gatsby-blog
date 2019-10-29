@@ -47,8 +47,9 @@ Overview of previously completed <a href="/courses">courses</a>
 #### WHAT I'M LOOKING FORWARD TO
 
 <ul class="disc">
-  <li>Visiting Denmark, Sweden, Cuba and Mexico with my husband</li>
-  <li>Running the Connemara Marathon</li>
+  <li>Visiting Denmark and Sweden (Dec / Jan) and Cuba and Mexico (March / April) with my husband</li>
+  <li>Running the Connemara Marathon in April 2020</li>
+  <li>Turning 30 😅</li>
 </ul>
 
 <small>Last update: 30/10/2019<br/>
