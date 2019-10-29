@@ -35,19 +35,20 @@ title: Now
   <li><a href="https://www.udemy.com/machine-learning-with-javascript/learn/v4/overview" target="_blank">Machine Learning with Javascript</a> by Stephen Grider</li>
 </ul>
 
-Overview of previously completed <a href="/courses">courses</a>
+Thoughts on  <a href="/stash/a-learning-culture/">lifelong learning</a>
 
 #### Health
 
 <ul class="disc">
-  <li>Getting stronger</li>
+  <li>Getting stronger (again)</li>
   <li>Running 5km in 24 minutes (currently at 24:47)</li>
 </ul>
 
 #### WHAT I'M LOOKING FORWARD TO
 
 <ul class="disc">
-  <li>Visiting Denmark and Sweden (Dec / Jan) and Cuba and Mexico (March / April) with my husband</li>
+  <li>Visiting Denmark and Sweden for a NY day double Parkrun and extended trip with Kevin</li>
+  <li>Visiting Cuba and Mexico in 2020 (and celebrating 5 years of married life)</li>
   <li>Running the Connemara Marathon in April 2020</li>
   <li>Turning 30 😅</li>
 </ul>
