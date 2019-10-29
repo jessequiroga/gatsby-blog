@@ -43,7 +43,7 @@ I have a keen interest in human behaviour and always strive to surround myself w
 <ul class="disc">
   <li>Moved to Limerick, Ireland with Kevin (the husband) and Wilco (the dog)</li>
   <li>Made some new friends at <a href="http://www.weareleaf.com" target="_blank">Leaf</a> and started working remotely full-time</li>
-  <li>Travelled to The Netherlands (Amsterdam, Wemeldinge), Brussels, Paris, Germany (Munich, Rothenburg, Heidelberg), <br/>Prague, Budapest and Canterbury - it was a good year for adventure.</li> 
+  <li>Travelled to The Netherlands (Amsterdam, Wemeldinge), Brussels, Paris, Germany (Munich, Rothenburg, Heidelberg), Prague, Budapest and Canterbury - it was a good year for adventure.</li> 
   <li>Learnt and applied Elixir, Phoenix and React-Native</li>
   <li>Completed 28 <a href="http://www.parkrun.ie/results/athleteresultshistory/?athleteNumber=2367289" target="_blank">parkruns</a> in 4 different countries</li>
 </ul>
