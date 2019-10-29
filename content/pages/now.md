@@ -9,6 +9,7 @@ title: Now
 <ul class="disc">
   <li>Living in Limerick 🇮🇪🐑🍻</li>
   <li>Working <a href="http://weareleaf.com" target="_blank">@weareleaf</a> 👩🏼‍💻🌿</li>
+  <li>Studying towards a BSc (Hons) in Computing and Information Technologies through the University of Derby Online Learning</li>
 </ul>
 
 #### WHAT I'M CURRENTLY FOCUSED ON
@@ -30,8 +31,7 @@ title: Now
 #### Learning
 
 <ul class="disc">
-  <li>Working my way through the Duolingo Dutch learning tree</li>
-  <li><a href="https://www.railsspeed.com/" target="_blank">The Complete Guide to Rails Performance</a> by Nate Berkopec</li>
+  <li>Working my way though <a href="https://www.oreilly.com/library/view/head-first-design/0596007124/" target="_blank">Head First Design Patterns</a></li>
   <li><a href="https://www.udemy.com/machine-learning-with-javascript/learn/v4/overview" target="_blank">Machine Learning with Javascript</a> by Stephen Grider</li>
 </ul>
 
@@ -40,18 +40,15 @@ Overview of previously completed <a href="/courses">courses</a>
 #### Health
 
 <ul class="disc">
-  <li><del>Reaching my 50th parkrun</del></li>
-  <li>Training for my first full marathon</li>
   <li>Getting stronger</li>
+  <li>Running 5km in 24 minutes (currently at 24:47)</li>
 </ul>
 
 #### WHAT I'M LOOKING FORWARD TO
 
 <ul class="disc">
-  <li>Exploring locally and seeing more of Ireland</li>
-  <li>Running the Killarney Half Marathon</li>
-  <li><del>Hiking our way through the Wicklow Mountains with Wilco</del></li>
-  <li><del>Traveling to the US (New York State) and Canada (Toronto / Niagara) with my husband and parents</del></li>
+  <li>Visiting Denmark, Sweden, Cuba and Mexico with my husband</li>
+  <li>Running the Connemara Marathon</li>
 </ul>
 
 <small>Last update: 1 May 2019<br/>
