@@ -41,6 +41,7 @@ Thoughts on  <a href="/stash/a-learning-culture/">lifelong learning</a>
 
 <ul class="disc">
   <li>Getting stronger (again)</li>
+  <li>30 day "Run Streak" (Nov 2019)</li>
   <li>Running 5km in 24 minutes (currently at 24:47)</li>
 </ul>
 
