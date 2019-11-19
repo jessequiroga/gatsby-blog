@@ -1,12 +1,12 @@
 ---
-published: true
+published: false
 path: '/stash/pragmatic-problem-solving'
 title: Pragmatic problem solving
 tags: ['problem-solving']
 date: '2019-07-02'
 ---
 
-Depending on the nature of the problem at hand, problem solving can be an overwhelming task. 
+Depending on the nature of the problem at hand, problem solving can be an overwhelming task.
 
 Solving a complex problem or crushing a pesky software bug has the potential to make you feel like a hero, just to shatter your ego minutes later. Breaking it up into practical steps leaves you with a process to fall back on and help you stay focused when solving a particularly irksome or elusive problem.
 
@@ -40,7 +40,8 @@ As outlined in <a href="https://pragprog.com/book/tpp20/the-pragmatic-programmer
 gain new insight into the problem.</blockquote>
 
 Iterating over the behaviour with different data sets helps us to understand the problem. And an in depth understanding makes it easier to ask for help, which (as our Engineering Director at Leaf recently pointed out), can prevent wasting valuable time</p>
-      <blockquote class="twitter-tweet"><p lang="en" dir="ltr">7. Getting stuck and spending a day figuring out what could have been solved in 10 mins by asking for help.</p>&mdash; Mike Carter (@mcarterj) <a href="https://twitter.com/mcarterj/status/1143626584655650816?ref_src=twsrc%5Etfw">June 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">7. Getting stuck and spending a day figuring out what could have been solved in 10 mins by asking for help.</p>&mdash; Mike Carter (@mcarterj) <a href="https://twitter.com/mcarterj/status/1143626584655650816?ref_src=twsrc%5Etfw">June 25, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <ul>
 <li>Eliminate Assumptions. Assumptions (and denial) are the root of all evil. Debug as transparently as possible.</li>
