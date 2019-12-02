@@ -41,16 +41,15 @@ Thoughts on  <a href="/stash/a-learning-culture/">lifelong learning</a>
 
 <ul class="disc">
   <li>Getting stronger (again)</li>
-  <li>30 day "Run Streak" (Nov 2019)</li>
-  <li>Running 5km in 24 minutes (currently at 24:47)</li>
+  <li><del>Running 5km in 24 minutes</del> ✔️ (23:58)</li>
 </ul>
 
 #### WHAT I'M LOOKING FORWARD TO
 
 <ul class="disc">
-  <li>Visiting Denmark and Sweden for a NY day double Parkrun and extended trip with Kevin</li>
+  <li>Visiting Denmark and Sweden for a NY day Parkrun double and extended trip with Kevin</li>
   <li>Visiting Cuba and Mexico in 2020 (and celebrating 5 years of married life)</li>
-  <li>Running the Connemara Marathon in April 2020</li>
+  <li>Training for the Connemara Marathon in April 2020</li>
   <li>Turning 30 😅</li>
 </ul>
 
