@@ -10,11 +10,11 @@ I have a keen interest in human behaviour and always strive to surround myself w
 
 <hr>
 
-### Experience
+### Areas of focus
 
 <ul>
-  <li>Javascript, React, React-Native, Redux (w/ sagas), ImmutableJS</li>
-  <li>styled-components, Sass</li>
+  <li>Javascript, React, React-Native</li>
+  <li>Sass, styled-components</li>
   <li>Webpack, Gulp</li>
   <li>Ruby on Rails, Elixir, Phoenix</li>
 </ul>
@@ -27,23 +27,25 @@ I have a keen interest in human behaviour and always strive to surround myself w
 
 ### Timeline (let's walk it back)
 
+#### 2020
+
+#### For things I'm looking forward to and/or currently focused on visit <a href="/now">/now</a>
+
 #### 2019
 
 <ul class="disc">
   <li>Ran my first marathon (Dublin 2019, 4:18:04) and 50th Parkrun (March 2019)</li>
   <li>Travelled through Ireland with Kevin (and Wilco)</li>
-  <li>Travelled to Ontario (Toronto, Niagara Falls), New York State (Finger Lakes Distric, NYC), Northern Ireland and Wales</li> 
-  <li>Started studing at the University of Derby Online (BSc (Hons) Computing and Information Technologies)</li>
+  <li>Travelled to Ontario (Toronto, Niagara Falls), New York State (Finger Lakes Distric, NYC), Northern Ireland, Wales, Denmark and Sweden</li> 
+  <li>Started studying at the University of Derby Online (BSc (Hons) Computing and Information Technologies)</li>
 </ul>
-
-#### For things I'm looking forward to and/or currently focused on visit <a href="/now">/now</a>
 
 #### 2018
 
 <ul class="disc">
   <li>Moved to Limerick, Ireland with Kevin (the husband) and Wilco (the dog)</li>
   <li>Made some new friends at <a href="http://www.weareleaf.com" target="_blank">Leaf</a> and started working remotely full-time</li>
-  <li>Travelled to The Netherlands (Amsterdam, Wemeldinge), Brussels, Paris, Germany (Munich, Rothenburg, Heidelberg), Prague, Budapest and Canterbury - it was a good year for adventure.</li> 
+  <li>Travelled to The Netherlands (Amsterdam, Zeeland), Brussels, Paris, Germany (Munich, Rothenburg, Heidelberg), Prague, Budapest and Canterbury - it was a good year for adventure.</li> 
   <li>Learnt and applied Elixir, Phoenix and React-Native</li>
   <li>Completed 28 <a href="http://www.parkrun.ie/results/athleteresultshistory/?athleteNumber=2367289" target="_blank">parkruns</a> in 4 different countries</li>
 </ul>
