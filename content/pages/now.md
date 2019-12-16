@@ -9,7 +9,7 @@ title: Now
 <ul class="disc">
   <li>Living in Limerick 🇮🇪🐑🍻</li>
   <li>Working <a href="http://weareleaf.com" target="_blank">@weareleaf</a> 👩🏼‍💻🌿</li>
-  <li>Studying towards a BSc (Hons) in Computing and Information Technologies through the University of Derby Online Learning</li>
+  <li>Studying towards a BSc (Hons) in Computing and Information Technologies through the University of Derby</li>
 </ul>
 
 #### WHAT I'M CURRENTLY FOCUSED ON
@@ -17,22 +17,23 @@ title: Now
 #### Personal
 
 <ul class="disc">
-  <li><del>Building the habit of getting up at 5am</del> Getting enough sleep</li>
-  <li>Achieving the reading and writing targets I set for myself</li>
+  <li>Meditating daily</li>
+  <li>Focusing on reading long-form content</li>
 </ul>
 
 #### Professional
 
 <ul class="disc">
-  <li>Leveling up in terms of TDD</li>
-  <li>Optimising my workflow and productivity so that I can deliver my best work</li>
+  <li>Writing more</li>
+  <li>Revisiting functional programming concepts</li>
 </ul>
 
 #### Learning
 
+Studying managed to takeover this part of my life, but I'm still focusing on reading classic (and some not-so-classic) programming books, currently:
+
 <ul class="disc">
   <li>Working my way through <a href="https://www.oreilly.com/library/view/head-first-design/0596007124/" target="_blank">Head First Design Patterns</a></li>
-  <li><a href="https://www.udemy.com/machine-learning-with-javascript/learn/v4/overview" target="_blank">Machine Learning with Javascript</a> by Stephen Grider</li>
 </ul>
 
 Thoughts on  <a href="/stash/a-learning-culture/">lifelong learning</a>
@@ -42,15 +43,17 @@ Thoughts on  <a href="/stash/a-learning-culture/">lifelong learning</a>
 <ul class="disc">
   <li>Getting stronger (again)</li>
   <li><del>Running 5km in 24 minutes</del> ✔️ (23:58)</li>
+  <li>Running a sub 4 hour marathon</li>
 </ul>
 
 #### WHAT I'M LOOKING FORWARD TO
 
 <ul class="disc">
-  <li>Visiting Denmark and Sweden for a NY day Parkrun double and extended trip with Kevin</li>
-  <li>Visiting Cuba and Mexico in 2020 (and celebrating 5 years of married life)</li>
+  <li>Visiting Denmark and Sweden Dec + Jan 2020</li>
+  <li>Visiting Cuba and Mexico (+ celebrating 5 years of married life)</li>
   <li>Training for the Connemara Marathon in April 2020</li>
   <li>Turning 30 😅</li>
+  <li>Moving to Amsterdam 🇳🇱</li>
 </ul>
 
 <small>Last update: 02/12/2019<br/>
