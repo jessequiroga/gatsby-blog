@@ -56,5 +56,5 @@ Thoughts on  <a href="/stash/a-learning-culture/">lifelong learning</a>
   <li>Moving to Amsterdam 🇳🇱</li>
 </ul>
 
-<small>Last update: 02/12/2019<br/>
+<small>Last update: 16/12/2019<br/>
 This page is part of the <a href="https://sivers.org/nowff">"The /now page movement"</a></small>
