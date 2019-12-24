@@ -63,14 +63,14 @@ I have a keen interest in human behaviour and always strive to surround myself w
 
 <ul class="disc">
   <li>Started at <a href="http://www.cybercellar.com" target="_blank">Cybercellar</a> as Ruby on Rails Frontend Developer</li>
+  <li>Moved into our first house 🏡</li>
   <li>Travelled to Mozambique</li>
-  <li>Moved into our first house
 </ul>
 
 #### 2015
 
 <ul class="disc">
-  <li>Married a trooper :)</li>
+  <li>Married a trooper 🍠</li>
   <li>Left Primedia Broadcasting to focus purely on my development skills</li>
   <li>Contract-based work (Frontend / Ruby on Rails)</li>
 </ul>
@@ -120,6 +120,6 @@ I have a keen interest in human behaviour and always strive to surround myself w
 <ul class="disc">
   <li>Took a gap year</li>
   <li>Completed a Comprehensive Web Design course at <a href="https://www.cityvarsity.co.za/" target="_blank">City Varsity</a></li>
-  <li>Worked, travelled (and bought my first MacBook Pro) in the USA</li>
+  <li>Worked, travelled (and bought my first MacBook Pro 👩🏼‍💻) in the USA</li>
   <li>Started working as a Junior Web Designer at a small agency in Cape Town</li>
 </ul>
