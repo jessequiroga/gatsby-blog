@@ -8,7 +8,7 @@ title: Now
 
 <ul class="disc">
   <li>Living in Limerick 🇮🇪🐑🍻</li>
-  <li>Working <a href="http://weareleaf.com" target="_blank">@weareleaf</a> 👩💻🌿</li>
+  <li>Working <a href="http://weareleaf.com" target="_blank">@weareleaf</a> 👩🏼‍💻🌿</li>
   <li>Studying towards a BSc (Hons) in Computing and Information Technologies through the University of Derby</li>
 </ul>
 
