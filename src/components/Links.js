@@ -43,18 +43,6 @@ function Links({ location }) {
         </ul>
       )}
 
-      {(location.pathname === '/courses' ||
-        location.pathname === '/courses/') && (
-        <ul>
-          <li>
-            <Link to={'/about'}>about me</Link>
-          </li>
-          <li>
-            <Link to={'/stash'}>stash</Link>
-          </li>
-        </ul>
-      )}
-
       {(location.pathname === '/now' || location.pathname === '/now/') && (
         <ul>
           <li>
