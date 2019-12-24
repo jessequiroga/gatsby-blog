@@ -8,7 +8,7 @@ title: Now
 
 <ul class="disc">
   <li>Living in Limerick 🇮🇪🐑🍻</li>
-  <li>Working <a href="http://weareleaf.com" target="_blank">@weareleaf</a> 👩🏼‍💻🌿</li>
+  <li>Working <a href="http://weareleaf.com" target="_blank">@weareleaf</a> 👩💻🌿</li>
   <li>Studying towards a BSc (Hons) in Computing and Information Technologies through the University of Derby</li>
 </ul>
 
@@ -49,12 +49,11 @@ Thoughts on  <a href="/stash/a-learning-culture/">lifelong learning</a>
 #### WHAT I'M LOOKING FORWARD TO
 
 <ul class="disc">
-  <li>Visiting Denmark and Sweden Dec + Jan 2020</li>
-  <li>Visiting Cuba and Mexico (+ celebrating 5 years of married life)</li>
-  <li>Training for the Connemara Marathon in April 2020</li>
+  <li>Visiting Cuba and Mexico (+ celebrating 5 years of married life 🍾)</li>
+  <li>Training for the Connemara Marathon (April 2020)</li>
   <li>Turning 30 😅</li>
   <li>Moving to Amsterdam 🇳🇱</li>
 </ul>
 
-<small>Last update: 16/12/2019<br/>
+<small>Last update: 24/12/2019<br/>
 This page is part of the <a href="https://sivers.org/nowff">"The /now page movement"</a></small>
