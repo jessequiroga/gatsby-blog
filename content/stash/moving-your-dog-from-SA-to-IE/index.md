@@ -62,30 +62,24 @@ There are three ways for dogs to travel: cabin, check-in (often refered to as "i
 <ul>
   <li>
     <b>Cabin</b>
-    <p>
-      <ul>
-        <li>8kg</li>
-        <li>46 x 28 x 24 cm (L x W x H)</li>
-      </ul>
-    </p>
+    <ul>
+      <li>8kg</li>
+      <li>46 x 28 x 24 cm (L x W x H)</li>
+    </ul>
   </li>
   <li>
     <b>Check-in</b>
-    <p>
-      <ul>
-        <li>75kg</li>
-        <li>122 x 81 x 89 cm (L x W x H)</li>
-      </ul> 
-    </p> 
+    <ul>
+      <li>75kg</li>
+      <li>122 x 81 x 89 cm (L x W x H)</li>
+    </ul> 
   </li>
   <li>
     <b>Cargo</b>
-    <p>
-      <ul>
-        <li>75kg +</li>
-        <li>292+ cm (L + W + H)</li>
-      </ul> 
-    </p> 
+    <ul>
+      <li>75kg +</li>
+      <li>292+ cm (L + W + H)</li>
+    </ul> 
   </li>
 </ul>
 
