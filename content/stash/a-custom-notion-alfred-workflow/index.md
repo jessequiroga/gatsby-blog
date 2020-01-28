@@ -1,61 +1,86 @@
 ---
-published: false
+published: true
 path: '/stash/notion-alfred-workflow'
 title: A custom notion-alfred workflow
 tags: ['notion', 'alfred', 'productivity']
-date: '2019-12-18'
+date: '2019-11-18'
 ---
 
-When it comes to productivity strategies, the Eisenhower Decision Matrix is a personal favourite. In addition to personal progress, I've found it to be very effective when product managing in a cross-functional team environment. The strategy revolves around Eisenhower's saying
+In an attempt to work a little smarter, I've been investing some time into automating a few of my daily tasks and optimising my workflow for improved productivity.
+
+When it comes to productivity strategies, the Eisenhower decision matrix is a personal favourite. In addition to personal progress, I've found it to be very effective when product managing in a cross-functional team environment. The strategy revolves around Eisenhower's saying
 
 <blockquote>"What is important is seldom urgent and what is urgent is seldom important"</blockquote>
 
-The above graphic comes from an <a href="https://jamesclear.com/eisenhower-box" target="_blank">article</a> written by James Clear, but according to <a href="https://www.artofmanliness.com/articles/eisenhower-decision-matrix/" target="_blank">a post on Art of Manliness</a>, the matrix was first popularised by Stephen Covey. Both of the aforementioned articles are good resources if the "Eisenhower Box" is a foreign concept to you.
+The following graphic comes from an <a href="https://jamesclear.com/eisenhower-box" target="_blank">article</a> written by James Clear, but according to <a href="https://www.artofmanliness.com/articles/eisenhower-decision-matrix/" target="_blank">Art of Manliness</a>, the matrix was first popularised by Stephen Covey. Both of the aforementioned articles are good resources if the "Eisenhower Box" is a foreign concept to you.
 
-In an attempt to work a little smarter, I've started to invest some time into automating a few of my daily tasks and optimise my workflow. Enter two of my favourite productivity tools: Alfred and Notion. Alfred is a productivity tool for Mac, you could think of Alfred as Spotlight on steroids, and Notion is an all-in-one workspace destined for greatness.
+![Eisenhower Box](./images/eisenhower-box.jpg)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Really enjoyed <a href="[https://twitter.com/hnshah?ref_src=twsrc^tfw](https://twitter.com/hnshah?ref_src=twsrc%5Etfw)">@hnshah</a> 's history of <a href="[https://twitter.com/NotionHQ?ref_src=twsrc^tfw](https://twitter.com/NotionHQ?ref_src=twsrc%5Etfw)">@NotionHQ</a> , easily my favorite product in years : <a href="[https://t.co/u17eO6Ey7e](https://t.co/u17eO6Ey7e)">[https://t.co/u17eO6Ey7e](https://t.co/u17eO6Ey7e)</a></p>— Tim Höfer (@timhoefer) <a href="[https://twitter.com/timhoefer/status/1134692942663376896?ref_src=twsrc^tfw](https://twitter.com/timhoefer/status/1134692942663376896?ref_src=twsrc%5Etfw)">June 1, 2019</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js)" charset="utf-8"></script>
-
-Integrating Notion and Alfred required some effort, but here's the end result. (There is a slight delay, but bear in mind that I don't usually have Notion open when using the workflow, so the delay goes unnoticed.)
-
-![Notion Alfred Workflow Demo](./notion-alfred-workflow.gif)
+Enter two of my favourite productivity tools: Alfred and Notion. Alfred is a productivity tool for Mac, you could think of Alfred as Spotlight on steroids, and Notion is an all-in-one workspace destined for <a href="https://usefyi.com/notion-history/?utm_source=newsletter&utm_medium=email&utm_campaign=phnotion" target="_blank">greatness</a>.
 
 I use the following Notion board to utilise the Eisenhower Decision Matrix and organise daily tasks.
 
-![Eisenhower Board on Notion](./eisenhower-board-notion.png)
+![Eisenhower Board on Notion](./images/eisenhower-board-notion.png)
 
-(Don't you know how busy and important I am? is a hat tip to one of my favourite artists, Tom Rosenthal, who is (a) a genius and (b) manages to capture the mindset of an entire generation in one song.)
+Integrating Notion and Alfred required some effort, but here's the end result. (There is a slight delay, but bear in mind that I don't usually have Notion open when using the workflow, so the delay goes unnoticed.)
 
-I wanted to be able to add and recategorise tasks directly from my desktop and started digging around the internet for an Alfred workflow. The internet did not disappoint. Kevin Jalbert (link) published a very detailed notion-alfred workflow (link) using notion-py. The two repositories served as a valuable starting block for creating my own, as outlined below.
+![Notion Alfred Workflow Demo](./images/notion-alfred-workflow.gif)
 
-First off, you'll need
+<small>("Don't you know how busy and important I am" is a hat tip to one of my favourite artists, Tom Rosenthal, who is (a) a genius and (b) manages to capture the mindset of an entire generation in one song.)</small>
+
+I wanted to be able to add and recategorise tasks directly from my desktop and started digging around the internet for an Alfred workflow. The wild wild web did not disappoint. <a href="https://kevinjalbert.com/integrating-notion-with-alfred/" target="_blank">Kevin Jalbert</a> published a very detailed <a href="https://github.com/kevinjalbert/alfred-notion" target="_blank">notion-alfred workflow</a> using <a href="https://github.com/jamalex/notion-py" target="_blank">notion-py</a>. The two repositories served as a valuable starting block for creating my own, as outlined below.
+
+## First off, you'll need
 
 <ol>
-  <li>Alfred 3+ with a powerpack</li>
+  <li><a href="https://www.alfredapp.com/" target="_blank">Alfred 3+</a> with a powerpack</li>
   <li>Python 3</li>
   <li>A Notion Board</li>
 </ol>
 
+## How to
+
 <ol>
-  <li>Copy your Notion Token</li>
-  <li>Create a blank workflow in Alfred</li>
-  <li>Copy your Notion URLs</li>
+  <li>Open Alfred Preferences and create a new blank workflow</li>
+  <li>Right-click on your newly created workflow and select "Open in Finder"</li>
+  <li>Install `notion-py` in said folder from terminal `pip install notion`</li>
+  <li>Configure script(s), here's a working script example:
+
+```python
+#!/Library/Frameworks/Python.framework/Versions/3.7/bin/python3
+
+import sys
+from notion.client import NotionClient # notion-py
+
+client = NotionClient(token_v2="your-notion-token-v2")
+view = client.get_collection_view("https://www.notion.so/username/xxx?v=xxx")
+
+query = sys.argv[1]
+row = view.collection.add_row()
+row.name = query
+row.status = "do" # the title of your board / list (so mine would be either do, decide, delegate, done)
+
+print(query)
+```
+
+  <!-- mine is on github for reference (probably a good time to mention that I don't really have experience with Python -->
+  </li>
   <li>
-    Create your script(s) utilising notion-py
-    <li>Folder structure (link to github)</li>
-    <li>Script example</li>
+    Copy your Notion Token
+    <img src="./images/get_notion_token.png" alt="Get Notion Token" />
   </li>
-  <li>Hook up external script with a keyword trigger
-  <li>Create Keyword</li>
-  <li>Link External Script</li>
-  <li>Add Notification</li>
-  </li>
+  <li>Copy Notion URL</li>
+  (things to note)
+  <li>Create Keyword and hook up script (screenshot)</li>
+  <li>Add a push notification</li>
 </ol>
 
-Debugging Tips
+## Debugging Tips
 
 <ul>
-  <li>debugger</li>
-  <li>ensure your script is executable `chmod +x your-script.py`</li>
-  <li>make sure your script runs from the terminal</li>
+  <li>Alfred has a debugger. It comes in real handy to track down tiny, obvious glitches in your code. 
+    <img src="./images/alfred-debugger.png" alt="Get Notion Token" /></li>
+  <li>Ensure your script is running from the terminal, outside of the terminal, <code>python3 your-script.py</code></li>
+  <li>Ensure your python script is executable by running <code>chmod +x the-file-containing-your-script.py</code></li>
+  <li>Don't forget the shebang at the top of your file <code>#!/Library/Frameworks/Python.framework/Versions/3.7/bin/python3</code></li>
 </ul>
