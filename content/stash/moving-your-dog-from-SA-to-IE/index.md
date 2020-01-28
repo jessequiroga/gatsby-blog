@@ -2,7 +2,7 @@
 published: true
 path: '/stash/moving-your-dog-from-SA-to-IE'
 title: Moving your dog from South Africa to Ireland / UK (and beyond)
-tags: ['personal']
+tags: ['personal', 'pet travel']
 date: '2020-01-28'
 ---
 
@@ -10,7 +10,7 @@ It was just a regular Saturday. My husband "went to Builder’s Warehouse", a pr
 
 That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, <a href="https://www.facebook.com/bellasguardianangels/" target="_blank">Bella’s Guardian Angles</a>, where we met a very anxious little guy now, who's not so little and known as Wilco. Two and a half years later and I’m still waiting for my heart to stop expanding.
 
-<img src="./wilco_the_pup.jpg" alt="Puppy" title="Wilco The Pup" width="80%" height="80%" />
+![Wilco The Pup](./wilco_the_pup.jpg)
 
 The date was 5 August 2017. Little did we know that two months later, my husband would be interviewing for a two year assignment within his consulting firm at their office in Limerick (Ireland) and 6 months later, I would be boarding a plane. Watching as they load our BFG into said plane.
 
@@ -93,7 +93,7 @@ To give you an indication of check-in vs cargo costs, last time I check, KLM has
 
 Flying Wilco as cargo was costly, but with the benefit of hindsight, I’m very glad we didn’t have another option and that we had assistance during the process. In addition to being less stressful, there are a number of benefits that come with working through an agency, keep reading.
 
-## Getting the right crate for you dog
+## Getting the right crate for your dog
 
 If your dog is travelling cargo, it _has_ to travel in a wooden crate. If your dog is travelling in the hold it has to be in a IATA approved plastic crate. If, like us, you switch things up every couple of years, this is a little frustrating as our dog now has two impossibly large crates. One plastic (for fights within the EU) and one wooden (for international flights). The wooden crate will be provided through your travel agency, I recommend sticking with their standard crate. The requirements for the plastic crate differs depending on the airline, but they’ll most likely have a detailed spec of their requirements on their website.
 
@@ -129,7 +129,9 @@ The entire endeavour cost us just over €2000 (30 000 ZAR). At the time it was 
 
 We now often struggle with the concept of home, but have come to realise that home is where the dog is 💛
 
-<img src="./nobody_gets_left_behind.jpg" alt="Poster of dog looking out window" title="Nobody Gets Left Behind Poster" width="80%" height="80%" />
+<div>
+![Nobody Gets Left Behind Poster](./nobody_gets_left_behind.jpg)
+</div>
 
 ## Useful links
 
