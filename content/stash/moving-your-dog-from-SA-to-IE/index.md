@@ -6,7 +6,7 @@ tags: ['personal', 'pet travel']
 date: '2020-01-28'
 ---
 
-It was just a regular Saturday. My husband went to Builder’s Warehouse, a pretty standard outing for young home owners. When he came home, he asked me if it was okay if we spent a little extra money that month and subsequently presented me with a big blue dog collar and leash. There may have been tears.
+It was just a regular Saturday. My husband "went to Builder’s Warehouse", a pretty standard outing for young home owners on a Saturday morning. When he came home, he asked me if it was okay if we spent a little extra money that month and subsequently presented me with a big blue dog collar and leash. There may have been tears.
 
 That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, [Bella’s Guardian Angles](https://www.facebook.com/bellasguardianangels/), where we met a little guy now known as Wilco and he's not so little! Two years later and I’m still waiting for my heart to stop expanding.
 
@@ -117,7 +117,7 @@ Matters like whether or not there is a veterinarian on duty during your layover 
 
 ## Reunited at last
 
-If you’re travelling to Ireland, there’s only one point of entry for pets arriving by plane: Dublin Airport. You’ll collect your dog from World Freight Services next to the airport. There is a small import / handling fee of about ~€40.
+If you’re travelling to Ireland, there’s only one point of entry for pets arriving by plane: Dublin Airport. You’ll collect your dog from World Freight Services next to the airport. There is a small import / handling fee of about ~€40. If possible, try and have some water and food on you upon collection. Wilco was hungry.
 
 The entire endeavour cost us just over €2000 (30 000 ZAR). At the time it was a bitter pill to swallow, but having gone through it, I can now truthfully say that I would pay double tomorrow.
 
