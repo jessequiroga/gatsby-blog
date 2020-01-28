@@ -2,7 +2,7 @@
 published: true
 path: '/stash/moving-your-dog-from-SA-to-IE'
 title: Moving your dog . from South Africa to Ireland / UK (and beyond)
-tags: ['personal','pet travel']
+tags: ['personal', 'pet travel']
 date: '2020-01-28'
 ---
 
@@ -14,34 +14,42 @@ Our two year contract is coming to an end soon and since my husband has Dutch ci
 
 For reference, we flew from Cape Town to Dublin and our dog was about 22kg at the time. Your route and the size of your dog will affect the cost of travel.
 
-## First things first: Visit your Vet
+## First things first: visit your veterinarian
 
-Regardless of the destination or method of travel, your local veterinarian will always be your first stop. If your dog is coming from a high-risk rabies country, like South Africa, the waiting period after your first veterinarian visit is a minimum of three to four months if you want to avoid quarantine. 
+Regardless of the destination or method of travel, your local veterinarian will always be your first stop. If your dog is coming from a high-risk rabies country, like South Africa, the waiting period after your first veterinarian visit is a minimum of three to four months if you want to avoid quarantine.
+
 <ol>
-  <li><b>Microchip</b>
+  <li>
+    <b>Microchip</b> 
+    Nowadays many countries, Ireland included, have made it a legal requirement to microchip pet. As responsible dog owners, our dog was already chipped as a puppy, but it’s important to scan the microchip when you intend to travel (and on your yearly vet visit) for a number of reasons:
   
-  Nowadays many countries, Ireland included, have made it a legal requirement to microchip pet. As responsible dog owners, our dog was already chipped as a puppy, but it’s important to scan the microchip when you intend to travel (and on your yearly vet visit) for a number of reasons: 
-    <ul>
-      <li>Microchips can move (especially if it was inserted at a young age)</li>
-      <li>The Microchip has to be compatible with ISO standard 11785*</li>
-      <li>The Microchip has to be scanned and confirmed before vaccinating and drawing blood</li>
-    </ul>
+  <ul>
+    <li>Microchips can move (especially if it was inserted at a young age)</li>
+    <li>The Microchip has to be compatible with ISO standard 11785*</li>
+    <li>The Microchip has to be scanned and confirmed before vaccinating and drawing blood</li>
+  </ul>
 
-      It’s important the information on your Microchip form is correct and that the dog description is both specific and accurate
+It’s important the information on your Microchip form is correct and that the dog description is both specific and accurate
 
-      *Our dog had an Identipet chip. Regardless of the make of the chip, I would verify it’s compatibility with both your veterinarian and the manufacturer</li>
-     
-  <li><b>Rabies Vaccination</b>
-  
-If your dog is travelling from a high-risk rabies country you have to vaccinate (or boost) for rabies. The rabies vaccination should have a 3-year validity period. This is a good time to double check that your dogs regular vaccinations and boosters are up to date too.
+\*Our dog had an Identipet chip. Regardless of the make of the chip, I would verify it’s compatibility with both your veterinarian and the manufacturer
+
   </li>
-<li><b>Blood Tests for Rabies Certificate</btThere is a thirty day waiting period between the vaccination and the blood tests. Once the required thirty days has passed your dog’s blood can be drawn for the titre test, AKA the RNATT (Rabies Neutralising Antibody Titre Test Declaration). This is where the waiting game begins. From the day the blood was drawn, your dog needs to wait three months* before they can travel.
 
-In South Africa, your vet will send the blood sample to Onderstepoort, where they will test the sample to determine if your dog has enough antibodies. It’s a fairly standard procedure. After about two weeks you will be able to collect the certificate from your veterinarian.
+  <li>
+    <b>Rabies Vaccination</b>
+    If your dog is travelling from a high-risk rabies country you have to vaccinate (or boost) for rabies. The rabies vaccination should have a 3-year validity period. This is a good time to double check that your dogs regular vaccinations and boosters are up to date too.
+  </li>
+  <li>
+    <b>Blood Tests for Rabies Certificate</b>
+    There is a thirty day waiting period between the vaccination and the blood tests. Once the required thirty days has passed your dog’s blood can be drawn for the titre test, AKA the RNATT (Rabies Neutralising Antibody Titre Test Declaration). This is where the waiting game begins. From the day the blood was drawn, your dog needs to wait three months* before they can travel.
 
-I can’t remember the exact cost of the RNATT exercise, but I would budget ~€300 for all pre-flight vet fees.
+    In South Africa, your vet will send the blood sample to Onderstepoort, where they will test the sample to determine if your dog has enough antibodies. It’s a fairly standard procedure. After about two weeks you will be able to collect the certificate from your veterinarian.
 
-*If your pet cannot wait three months locally, they will have to spend the remainder of the time in quarantine at your destination. A better option would be to have the pet stay with friends or relatives and have them join you at a later date.</li>
+    I can’t remember the exact cost of the RNATT exercise, but I would budget ~€300 for all pre-flight vet fees.
+
+    \*If your pet cannot wait three months locally, they will have to spend the remainder of the time in quarantine at your destination. A better option would be to have the pet stay with friends or relatives and have them join you at a later date.
+
+  </li>
 </ol>
 
 ## Organising your dogs flight
