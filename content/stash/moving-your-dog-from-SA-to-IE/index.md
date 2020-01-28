@@ -40,11 +40,11 @@ It’s important the information on your Microchip form is correct and that the 
   </li>
 
   <li>
-    <b>Rabies Vaccination</b>
+    <b>Rabies vaccination</b>
     If your dog is travelling from a high-risk rabies country you have to vaccinate (or boost) for rabies. The rabies vaccination should have a 3-year validity period. This is a good time to double check that your dogs regular vaccinations and boosters are up to date too.
   </li>
   <li>
-    <b>Blood Tests for Rabies Certificate</b>
+    <b>Blood tests and rabies certificate</b>
     There is a thirty day waiting period between the vaccination and the blood tests. Once the required thirty days has passed your dog’s blood can be drawn for the titre test, AKA the RNATT (Rabies Neutralising Antibody Titre Test Declaration). This is where the waiting game begins. From the day the blood was drawn, your dog needs to wait three months* before they can travel.
 
 In South Africa, your vet will send the blood sample to Onderstepoort, where they will test the sample to determine if your dog has enough antibodies. It’s a fairly standard procedure. After about two weeks you will be able to collect the certificate from your veterinarian.
