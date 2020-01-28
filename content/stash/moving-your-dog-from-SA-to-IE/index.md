@@ -8,9 +8,9 @@ date: '2020-01-28'
 
 It was just a regular Saturday. My husband "went to Builder’s Warehouse", a pretty standard outing for young home owners on a Saturday morning. When he came home, he asked me if it was okay if we spent a little extra money that month and subsequently presented me with a big blue dog collar and leash. There may have been tears.
 
-That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, [Bella’s Guardian Angles](https://www.facebook.com/bellasguardianangels/), where we met a very anxious little guy now, who's not so little and known as Wilco. Two and a half years later and I’m still waiting for my heart to stop expanding.
+That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, <a href="https://www.facebook.com/bellasguardianangels/" target="_blank">Bella’s Guardian Angles</a>, where we met a very anxious little guy now, who's not so little and known as Wilco. Two and a half years later and I’m still waiting for my heart to stop expanding.
 
-![Wilco The Pup](./wilco_the_pup.jpg)
+<img src="./wilco_the_pup.jpg" alt="Puppy" title="Wilco The Pup" width="80%" height="80%" />
 
 The date was 5 August 2017. Little did we know that two months later, my husband would be interviewing for a two year assignment within his consulting firm at their office in Limerick (Ireland) and 6 months later, I would be boarding a plane. Watching as they load our BFG into said plane.
 
@@ -129,7 +129,7 @@ The entire endeavour cost us just over €2000 (30 000 ZAR). At the time it was 
 
 We now often struggle with the concept of home, but have come to realise that home is where the dog is.
 
-![Nobody Gets Left Behind Poster](./nobody_gets_left_behind.jpg)
+<img src="./nobody_gets_left_behind.jpg" alt="Poster of dog looking out window" title="Nobody Gets Left Behind Poster" width="80%" height="80%" />
 
 ## Useful links
 
