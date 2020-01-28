@@ -6,13 +6,17 @@ tags: ['personal', 'pet travel']
 date: '2020-01-28'
 ---
 
-It was just a regular Saturday. My husband went to Builder’s Warehouse, a pretty standard outing for home owners. When he came home, he asked me if it was okay if we spent a little extra money that month and subsequently presented me with a big blue dog collar and leash. There may have been tears. That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, Bella’s Guardian Angles, were me met a little guy now known as Wilco (and not so little!). Two years later and I’m still waiting for my heart to stop expanding.
+It was just a regular Saturday. My husband went to Builder’s Warehouse, a pretty standard outing for young home owners. When he came home, he asked me if it was okay if we spent a little extra money that month and subsequently presented me with a big blue dog collar and leash. There may have been tears.
+
+That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, Bella’s Guardian Angles, were me met a little guy now known as Wilco (and now not so little!). Two years later and I’m still waiting for my heart to stop expanding.
+
+[photo]
 
 The date was 5 August 2017. Little did we know that two months later, my husband would be interviewing for a position within his consulting firm at their office in Limerick, Ireland and 6 months later I would be boarding a plane, watching as they load our BFG into said plane. Getting Wilco to Ireland was definitely one of the most costly and stressful aspects of our move and I regularly get questions about the process, so I’ve decided to document it here.
 
 Our two year contract is coming to an end soon and since my husband has Dutch citizenship and I work remotely, we’ll be moving to Amsterdam for another two year assignment before, most likely, heading home 🇿🇦
 
-For reference, we flew from Cape Town to Dublin and our dog was about 22kg at the time. Your route and the size of your dog will affect the cost of travel.
+Before I jump, it's probably good to state that we flew from Cape Town to Dublin and our dog was about 22kg at the time. Your route and the size of your dog will affect the cost of travel.
 
 ## First things first: visit your veterinarian
 
@@ -43,11 +47,11 @@ It’s important the information on your Microchip form is correct and that the 
     <b>Blood Tests for Rabies Certificate</b>
     There is a thirty day waiting period between the vaccination and the blood tests. Once the required thirty days has passed your dog’s blood can be drawn for the titre test, AKA the RNATT (Rabies Neutralising Antibody Titre Test Declaration). This is where the waiting game begins. From the day the blood was drawn, your dog needs to wait three months* before they can travel.
 
-    In South Africa, your vet will send the blood sample to Onderstepoort, where they will test the sample to determine if your dog has enough antibodies. It’s a fairly standard procedure. After about two weeks you will be able to collect the certificate from your veterinarian.
+In South Africa, your vet will send the blood sample to Onderstepoort, where they will test the sample to determine if your dog has enough antibodies. It’s a fairly standard procedure. After about two weeks you will be able to collect the certificate from your veterinarian.
 
-    I can’t remember the exact cost of the RNATT exercise, but I would budget ~€300 for all pre-flight vet fees.
+I can’t remember the exact cost of the RNATT exercise, but I would budget ~€300 for all pre-flight vet fees.
 
-    \*If your pet cannot wait three months locally, they will have to spend the remainder of the time in quarantine at your destination. A better option would be to have the pet stay with friends or relatives and have them join you at a later date.
+\*If your pet cannot wait three months locally, they will have to spend the remainder of the time in quarantine at your destination. A better option would be to have the pet stay with friends or relatives and have them join you at a later date.
 
   </li>
 </ol>
