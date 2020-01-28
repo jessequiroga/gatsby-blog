@@ -127,7 +127,7 @@ If you’re travelling to Ireland, there’s only one point of entry for pets ar
 
 The entire endeavour cost us just over €2000 (30 000 ZAR). At the time it was a bitter pill to swallow, but having gone through it, I can now truthfully say that I would pay double tomorrow, even if I had to sell a kidney. Settling in another country comes with it's own set of challenges and for us, Wilco made the transition much easier. He's a trooper. We've enjoyed hiking with him all over the island and seen some pretty magical scenery.
 
-We now often struggle with the concept of home, but have come to realise that home is where the dog is.
+We now often struggle with the concept of home, but have come to realise that home is where the dog is 💛
 
 <img src="./nobody_gets_left_behind.jpg" alt="Poster of dog looking out window" title="Nobody Gets Left Behind Poster" width="80%" height="80%" />
 
