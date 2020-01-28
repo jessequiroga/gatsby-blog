@@ -41,7 +41,7 @@ It’s important the information on your Microchip form is correct and that the 
 
   <li>
     <b>Rabies vaccination</b>
-    If your dog is travelling from a high-risk rabies country you have to vaccinate (or boost) for rabies. The rabies vaccination should have a 3-year validity period. This is a good time to double check that your dogs regular vaccinations and boosters are up to date too.
+    If your dog is travelling from a high-risk rabies country you have to vaccinate (or boost) for rabies. The rabies vaccination should have a 3-year validity period. This is a good time to double check that your dog's regular vaccinations and boosters are up to date too.
   </li>
   <li>
     <b>Blood tests and rabies certificate</b>
@@ -56,9 +56,9 @@ I can’t remember the exact cost of the RNATT exercise, but I would budget ~€
   </li>
 </ol>
 
-## Organising your dogs flight
+## Organising your dog's flight
 
-Though you may now find yourself in somewhat of a waiting game, there’s no rest for the wicked!  Due to the Common Travel Area agreement of 1923 Ireland and the UK share the same import requirements when it comes to pets. This is where the bad news comes in. If you travel to most European countries, you can travel with your pet as “check-in” luggage, if you’re flying to Ireland or the UK, your pet _has_ to come as cargo and the only way to get your dog into cargo is by working with an agency and agencies are expensive. We used Animal Travel Services and could not recommend them more highly. They also happened to be, by quite some margin, the most affordable quote we received.
+Though you may now find yourself in somewhat of a waiting game, there’s no rest for the wicked! Due to the Common Travel Area agreement of 1923 Ireland and the UK share the same import requirements when it comes to pets. This is where the bad news comes in. If you travel to most European countries, you can travel with your pet as “check-in” luggage, if you’re flying to Ireland or the UK, your pet _has_ to come as cargo and the only way to get your dog into cargo is by working with an agency and agencies are expensive. We used Animal Travel Services and could not recommend them more highly. They also happened to be, by quite some margin, the most affordable quote we received.
 
 Brexit might affect the above and regulations change regularly. Again, I would recommend that you contact pet friendly airlines such as KLM, Lufthansa and Swiss Air to query the route. Approved airlines depend on your destination. The airline will be able to confirm whether or not your dog is allowed to enter the country as check-in luggage. To give you an indication of check-in vs cargo costs, last time I check, KLM has a flat international rate of €200 (+€150 if your layover is more than 2 hours) when your dog travels in the hold. If your pet is flying cargo, you’re probably looking at €1500, but that figure is size dependent.
 
