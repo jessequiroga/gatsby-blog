@@ -10,7 +10,7 @@ It was just a regular Saturday. My husband "went to Builder’s Warehouse", a pr
 
 That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, [Bella’s Guardian Angles](https://www.facebook.com/bellasguardianangels/), where we met a very anxious little guy now, who's not so little and known as Wilco. Two and a half years later and I’m still waiting for my heart to stop expanding.
 
-[photo]
+![Wilco The Pup](./wilco_the_pup.jpg)
 
 The date was 5 August 2017. Little did we know that two months later, my husband would be interviewing for a two year assignment within his consulting firm at their office in Limerick (Ireland) and 6 months later, I would be boarding a plane. Watching as they load our BFG into said plane.
 
@@ -128,6 +128,8 @@ If you’re travelling to Ireland, there’s only one point of entry for pets ar
 The entire endeavour cost us just over €2000 (30 000 ZAR). At the time it was a bitter pill to swallow, but having gone through it, I can now truthfully say that I would pay double tomorrow, even if I had to sell a kidney. Settling in another country comes with it's own set of challenges and for us, Wilco made the transition much easier. He's a trooper. We've enjoyed hiking with him all over the island and seen some pretty magical scenery.
 
 We now often struggle with the concept of home, but have come to realise that home is where the dog is.
+
+![Nobody Gets Left Behind Poster](./nobody_gets_left_behind.jpg)
 
 ## Useful links
 
