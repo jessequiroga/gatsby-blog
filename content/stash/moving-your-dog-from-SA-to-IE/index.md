@@ -8,7 +8,7 @@ date: '2020-01-28'
 
 It was just a regular Saturday. My husband "went to Builder’s Warehouse", a pretty standard outing for young home owners on a Saturday morning. When he came home, he asked me if it was okay if we spent a little extra money that month and subsequently presented me with a big blue dog collar and leash. There may have been tears.
 
-That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, <a href="https://www.facebook.com/bellasguardianangels/" target="_blank">Bella’s Guardian Angles</a>, where we met a very anxious little guy now, who's not so little and known as Wilco. Two and a half years later and I’m still waiting for my heart to stop expanding.
+That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, <a href="https://www.facebook.com/bellasguardianangels/" target="_blank">Bella’s Guardian Angles</a>, where we met a very anxious little guy, who's known as Wilco and not so little. Two and a half years later and I’m still waiting for my heart to stop expanding.
 
 ![Wilco The Pup](./wilco_the_pup.jpg)
 
@@ -96,6 +96,8 @@ Flying Wilco as cargo was costly, but with the benefit of hindsight, I’m very 
 ## Getting the right crate for your dog
 
 If your dog is travelling cargo, it _has_ to travel in a wooden crate. If your dog is travelling in the hold it has to be in a IATA approved plastic crate. If, like us, you switch things up every couple of years, this is a little frustrating as our dog now has two impossibly large crates. One plastic (for fights within the EU) and one wooden (for international flights). The wooden crate will be provided through your travel agency, I recommend sticking with their standard crate. The requirements for the plastic crate differs depending on the airline, but they’ll most likely have a detailed spec of their requirements on their website.
+
+Online you'll find plenty of guides on how to measure your dog. The golden rule with crate sizing is to err on the side of caution, rather too big, than too small.
 
 Both our crates cost ~€200 each. It goes without saying that this is dependent.
 
