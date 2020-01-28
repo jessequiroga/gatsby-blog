@@ -8,7 +8,7 @@ date: '2020-01-28'
 
 It was just a regular Saturday. My husband "went to Builder’s Warehouse", a pretty standard outing for young home owners on a Saturday morning. When he came home, he asked me if it was okay if we spent a little extra money that month and subsequently presented me with a big blue dog collar and leash. There may have been tears.
 
-That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, [Bella’s Guardian Angles](https://www.facebook.com/bellasguardianangels/), where we met a little guy now known as Wilco and he's not so little! Two years later and I’m still waiting for my heart to stop expanding.
+That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, [Bella’s Guardian Angles](https://www.facebook.com/bellasguardianangels/), where we met a little guy now, not so little and known as Wilco. Two years later and I’m still waiting for my heart to stop expanding.
 
 [photo]
 
@@ -117,9 +117,11 @@ Matters like whether or not there is a veterinarian on duty during your layover 
 
 ## Reunited at last
 
-If you’re travelling to Ireland, there’s only one point of entry for pets arriving by plane: Dublin Airport. You’ll collect your dog from World Freight Services next to the airport. There is a small import / handling fee of about ~€40. If possible, try and have some water and food on you upon collection. Wilco was hungry.
+If you’re travelling to Ireland, there’s only one point of entry for pets arriving by plane: Dublin Airport. You’ll collect your dog from World Freight Services next to the airport. There is a small import / handling fee of about ~€40. If possible, try and have some water and food on you upon collection. Wilco was hungry. He's a big fella, so they bought him out with a fork lift. Ears flapping. There may have been tears.
 
-The entire endeavour cost us just over €2000 (30 000 ZAR). At the time it was a bitter pill to swallow, but having gone through it, I can now truthfully say that I would pay double tomorrow.
+The entire endeavour cost us just over €2000 (30 000 ZAR). At the time it was a bitter pill to swallow, but having gone through it, I can now truthfully say that I would pay double tomorrow, even if it cost me kidney. Settling in another country comes with it's own set of challenges and for us, Wilco made the transition much easier. He's a trooper. We've enjoyed hiking with him all over the island and seen some pretty magical scenery.
+
+We now often struggle with the concept of home, but have come to realise that home is where the dog is.
 
 ## Finding a pet friendly home
 
@@ -129,5 +131,6 @@ Generally, Europe (especially the mainland) is pretty pet friendly and we found 
 
 <ul>
   <li>The [official documentation](https://www.citizensinformation.ie/en/moving_country/moving_to_ireland/coming_to_live_in_ireland/bringing_pets_to_ireland.html) on <i>Bringing pets to Ireland</i> (Every country will have a document or page like this available and if you can't find it online I've found the Departments of Agriculture quick to respond</li>
-  <li>KLMs page on [Travelling with pets](https://www.klm.com/travel/ie_en/prepare_for_travel/travel_planning/pets/index.htm)  </li>
+  <li>KLMs page on [Travelling with pets](https://www.klm.com/travel/ie_en/prepare_for_travel/travel_planning/pets/index.htm)</li>
+  <li>[Animal Travel Services](https://www.animal-travel.com/)</li>
 </ul>
