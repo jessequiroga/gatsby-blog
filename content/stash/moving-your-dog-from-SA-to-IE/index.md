@@ -8,13 +8,15 @@ date: '2020-01-28'
 
 It was just a regular Saturday. My husband went to Builder’s Warehouse, a pretty standard outing for young home owners. When he came home, he asked me if it was okay if we spent a little extra money that month and subsequently presented me with a big blue dog collar and leash. There may have been tears.
 
-That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, Bella’s Guardian Angles, were me met a little guy now known as Wilco (and now not so little!). Two years later and I’m still waiting for my heart to stop expanding.
+That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, Bella’s Guardian Angles, where we met a little guy now known as Wilco (and now not so little!). Two years later and I’m still waiting for my heart to stop expanding.
 
 [photo]
 
-The date was 5 August 2017. Little did we know that two months later, my husband would be interviewing for a position within his consulting firm at their office in Limerick, Ireland and 6 months later I would be boarding a plane, watching as they load our BFG into said plane. Getting Wilco to Ireland was definitely one of the most costly and stressful aspects of our move and I regularly get questions about the process, so I’ve decided to document it here.
+The date was 5 August 2017. Little did we know that two months later, my husband would be interviewing for a position within his consulting firm at their office in Limerick, Ireland and 6 months later I would be boarding a plane, watching as they load our BFG into said plane.
 
-Our two year contract is coming to an end soon and since my husband has Dutch citizenship and I work remotely, we’ll be moving to Amsterdam for another two year assignment before, most likely, heading home 🇿🇦
+Getting Wilco to Ireland was definitely one of the most costly and stressful aspects of our move and I regularly get questions about the process, so I’ve decided to document it here.
+
+Our two year contract is coming to an end soon (April 2020) and since my husband has Dutch citizenship and I work remotely, we’ll be moving to Amsterdam for another two year assignment before, most likely, heading home 🇿🇦
 
 Before I jump, it's probably good to state that we flew from Cape Town to Dublin and our dog was about 22kg at the time. Your route and the size of your dog will affect the cost of travel.
 
