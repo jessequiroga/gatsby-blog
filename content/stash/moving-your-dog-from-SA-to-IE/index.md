@@ -72,11 +72,13 @@ If your dog is travelling cargo, it _has_ to travel in a big wooden crate. If yo
 
 ## The week before take-off
 
-Paperwork! An EU health certificate must be completed by your veterinary practitioner, between 5 and 1 days before travelling. In other words, at least 24 hours before travelling, but not longer than 120 hours. The certificate then needs to be signed by an Official State Veterinarian. In Cape Town the state veterinarian is located in Milnerton and only open between 9am and 12pm on weekdays. This is were an agency is very helpful. You will have a lot of things on your plate that last week before lift-off, the agency will collect the certificate from you and get it to the state vet in time
+Paperwork! An EU health certificate must be completed by your veterinary practitioner, between 5 and 1 days before travelling. In other words, at least 24 hours before travelling, but not longer than 120 hours. The certificate then needs to be signed by an Official State Veterinarian.
+
+In Cape Town the state veterinarian is located in Milnerton and only open between 9am and 12pm on weekdays. This is were an agency is very helpful. You will have a lot of things on your plate that last week before lift-off, the agency will collect the certificate from you and get it to the state vet in time
 
 ## The day of take-off
 
-The agency will collect your dog early. In our case my flight was late afternoon and Animal Travel Services collected Wilco at about 9:30 in the morning. The driver was animal whisperer and just reassuring all round. The agency will get your dog and his crate flight-ready and truthfully, I needed that last day to get my own admin in order. There are so many moving parts and little tasks, like phoning the bank.
+The agency will collect your dog early. In our case my flight was late afternoon and Animal Travel Services collected Wilco at about 9:30 in the morning. The driver was animal whisperer and just reassuring all round. The agency will get your dog and his crate flight-ready and truthfully, I needed that last day to get my own admin in order. There are so many moving parts and little tasks that need to be taken care of, like phoning the bank.
 
 ## The flight
 
