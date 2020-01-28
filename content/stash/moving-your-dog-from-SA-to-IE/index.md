@@ -10,7 +10,9 @@ It was just a regular Saturday. My husband "went to Builder’s Warehouse", a pr
 
 That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, <a href="https://www.facebook.com/bellasguardianangels/" target="_blank">Bella’s Guardian Angles</a>, where we met a very anxious little guy, who's known as Wilco and not so little. Two and a half years later and I’m still waiting for my heart to stop expanding.
 
-![Wilco The Pup](./wilco_the_pup.jpg)
+<div style="width: 80%; margin: 0 auto;">
+  <img src="./wilco_the_pup.jpg" alt="Puppy" title="Wilco The Pup" width="80%" height="80%" />
+</div>
 
 The date was 5 August 2017. Little did we know that two months later, my husband would be interviewing for a two year assignment within his consulting firm at their office in Limerick (Ireland) and 6 months later, I would be boarding a plane. Watching as they load our BFG into said plane.
 
@@ -131,8 +133,8 @@ The entire endeavour cost us just over €2000 (30 000 ZAR). At the time it was 
 
 We now often struggle with the concept of home, but have come to realise that home is where the dog is 💛
 
-<div>
-![Nobody Gets Left Behind Poster](./nobody_gets_left_behind.jpg)
+<div style="width: 80%; margin: 0 auto;">
+  <img src="./nobody_gets_left_behind.jpg" alt="Poster of dog looking out window" title="Nobody Gets Left Behind Poster" width="80%" height="80%" />
 </div>
 
 ## Useful links
