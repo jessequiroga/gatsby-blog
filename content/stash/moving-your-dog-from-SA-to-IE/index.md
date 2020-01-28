@@ -109,13 +109,13 @@ Both our crates cost ~€200 each. It goes without saying that this is dependent
 
 Generally, Europe (especially the mainland) is pretty pet friendly and we found that people are willing to negotiate when it comes to pets. You're definitely better off dealing with the landlord self, we found that agencies didn't even reply if you mentioned the word dog. We were incredibly lucky and ended up living in the first house we viewed. My husband did arrive a month before us as Wilco still had to wait out the three months after his blood was drawn. We used that time to tie up our ends in South Africa and get everything ready this side. If you're moving with a pet, that would be my recommendation.
 
-## The week before take-off
+## The week before take off
 
 Paperwork! An EU health certificate must be completed by your veterinary practitioner, between 5 and 1 days before travelling. In other words, at least 24 hours before travelling, but not longer than 120 hours before your flight. The certificate then needs to be signed by an official state veterinarian.
 
 In Cape Town the state veterinarian is located in Milnerton and only open between 9am and 12pm on weekdays. This is where an agency is very helpful. You will have a lot of things on your plate that last week before lift-off, the agency will collect the certificate from you and get it to and from the state vet in time.
 
-## The day of take-off
+## The day of take off
 
 The agency will collect your dog early. In our case my flight was late afternoon and Animal Travel Services collected Wilco at about 9:30 in the morning. The driver was an animal whisperer and it was a very reassuring experience. The agency will use the time to get your dog and his crate flight-ready and truthfully, I needed that last day to get my own admin in order. There are so many moving parts and little tasks that need to be taken care of, like phoning the bank.
 
