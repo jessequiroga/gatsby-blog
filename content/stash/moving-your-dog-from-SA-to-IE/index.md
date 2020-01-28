@@ -91,7 +91,7 @@ There are three ways for dogs to travel: cabin, check-in (often refered to as "i
 
 If your moving to Ireland, this is were the bad news comes in: some countries only allow animals to be imported as cargo. This includes the UK and, due to the Common Travel Area agreement of 1923, Ireland and the UK share the same import requirements when it comes to pets. If you travel to most European countries, you can travel with your pet as “check-in” luggage. When flying to Ireland your pet _has_ to come as cargo and the only way to get your dog into cargo is by working with an agency and it gets expensive.
 
-We used [Animal Travel Services](https://www.animal-travel.com/) in Cape Town and could not recommend them more highly. They also happened to be, by quite some margin, the most affordable quote we received.
+We used <a href="https://www.animal-travel.com/" target="_blank">Animal Travel Services</a> in Cape Town and could not recommend them more highly. They also happened to be, by quite some margin, the most affordable quote we received.
 
 Brexit might affect the above and regulations change regularly. Again, I would recommend that you contact pet friendly airlines such as KLM, Lufthansa and Swiss Air to query the route. Approved airlines depend on your destination. The airline will be able to confirm whether or not your dog is allowed to enter the country as check-in luggage. If your dog is flying check-in you should arrive at the airport 3-4 hours before your flight, with your dog.
 
@@ -138,7 +138,7 @@ We now often struggle with the concept of home, but have come to realise that ho
 ## Useful links
 
 <ul>
-  <li>The [official documentation](https://www.citizensinformation.ie/en/moving_country/moving_to_ireland/coming_to_live_in_ireland/bringing_pets_to_ireland.html) on <i>Bringing pets to Ireland</i> (Every country will have a document or page like this available and if you can't find it online I've found the Departments of Agriculture quick to respond</li>
-  <li>KLMs page on [Travelling with pets](https://www.klm.com/travel/ie_en/prepare_for_travel/travel_planning/pets/index.htm)</li>
-  <li>[Animal Travel Services](https://www.animal-travel.com/)</li>
+  <li>The <a href="https://www.citizensinformation.ie/en/moving_country/moving_to_ireland/coming_to_live_in_ireland/bringing_pets_to_ireland.html" target="_blank">official documentation</a> on <i>Bringing pets to Ireland</i> (Every country will have a document or page like this available and if you can't find it online I've found the Departments of Agriculture quick to respond</li>
+  <li>KLMs page on <a href="https://www.klm.com/travel/ie_en/prepare_for_travel/travel_planning/pets/index.htm" target="_blank">Travelling with pets</a></li>
+  <li><a href="https://www.animal-travel.com/" target="_blank">Animal Travel Services</a></li>
 </ul>
