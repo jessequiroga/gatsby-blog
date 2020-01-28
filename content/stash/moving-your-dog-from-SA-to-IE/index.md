@@ -8,17 +8,17 @@ date: '2020-01-28'
 
 It was just a regular Saturday. My husband "went to Builder’s Warehouse", a pretty standard outing for young home owners on a Saturday morning. When he came home, he asked me if it was okay if we spent a little extra money that month and subsequently presented me with a big blue dog collar and leash. There may have been tears.
 
-That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, [Bella’s Guardian Angles](https://www.facebook.com/bellasguardianangels/), where we met a little guy now, not so little and known as Wilco. Two years later and I’m still waiting for my heart to stop expanding.
+That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, [Bella’s Guardian Angles](https://www.facebook.com/bellasguardianangels/), where we met a very anxious little guy now, who's not so little and known as Wilco. Two and a half years later and I’m still waiting for my heart to stop expanding.
 
 [photo]
 
-The date was 5 August 2017. Little did we know that two months later, my husband would be interviewing for a position within his consulting firm at their office in Limerick, Ireland and 6 months later I would be boarding a plane, watching as they load our BFG into said plane.
+The date was 5 August 2017. Little did we know that two months later, my husband would be interviewing for a two year assignment within his consulting firm at their office in Limerick (Ireland) and 6 months later, I would be boarding a plane. Watching as they load our BFG into said plane.
 
-Getting Wilco to Ireland was definitely one of the most costly and stressful aspects of our move and I regularly get questions about the process, so I’ve decided to document it here.
+Getting Wilco to Ireland was definitely one of the most costly and stressful aspects of our move and I regularly get questions about the process. That's why I’ve decided to document it here.
 
 Our two year contract is coming to an end soon (April 2020) and since my husband has Dutch citizenship and I work remotely, we’ll be moving to Amsterdam for another two year assignment before, most likely, heading home 🇿🇦
 
-Before I jump in, it's important to state that this is not my day job and that rules, regulations and politics (read Brexit) change regulary and differ dependent on your specific circumstances, so it's really important to do the research and verify everything stated below. We flew from Cape Town to Dublin and our dog was about 22kg at the time. Your route and the size of your dog will affect the cost of travel.
+<i>Before I jump in, it's important to state that this is not my day job and that rules, regulations and politics (read Brexit) change regularly and differ dependent on your specific circumstances, so it's really important to do the research and verify everything stated below. We flew from Cape Town to Dublin and our dog was about 22kg at the time. Your route and the size of your dog will affect the cost of travel.</i>
 
 ## First things first: visit your veterinarian
 
@@ -27,13 +27,15 @@ Regardless of the destination or method of travel, your local veterinarian will 
 <ol>
   <li>
     <b>Microchip</b> 
-    <p>Nowadays many countries, Ireland included, have made it a legal requirement to microchip pets. As responsible dog owners, our dog was already chipped as a puppy, but it’s important to scan the microchip before you intend to travel (and on your yearly vet visit) for a number of reasons:</p>
-    <ul>
-      <li>Microchips can move (especially if it was inserted at a young age)</li>
-      <li>The Microchip has to be compatible with ISO standard 11785*</li>
-      <li>The Microchip has to be scanned and confirmed before vaccinating and drawing blood</li>
-    </ul>
-    <p>It’s important the information on your Microchip form is correct and that the dog description is both specific and accurate. The same goes for your pet passport (or vaccination card).</p>
+    <p>Nowadays many countries, Ireland included, have made it a legal requirement to microchip pets. As responsible owners, our dog was already chipped as a puppy. Regardless, it’s important to scan the microchip before you intend to travel (and on your yearly vet visits) for a number of reasons:</p>
+    <p>
+      <ul>
+        <li>Microchips can move (especially if it was inserted at a young age)</li>
+        <li>The Microchip has to be compatible with ISO standard 11785*</li>
+        <li>The Microchip has to be scanned and confirmed before vaccinating and drawing blood</li>
+      </ul>
+    </p>
+    <p>It’s important that the information on your Microchip form is correct and that the dog description is both specific and accurate. The same goes for your pet passport (or vaccination card).</p>
     <p>*Our dog had an Identipet chip. Regardless of the make of the chip, I would verify it’s compatibility with both your veterinarian and the manufacturer.</p>
   </li>
 
@@ -44,10 +46,10 @@ Regardless of the destination or method of travel, your local veterinarian will 
   <li>
     <b>Blood tests and rabies certificate</b>
     <p>There is a thirty day waiting period between the vaccination and the blood tests. Once the required thirty days have passed your dog’s blood can be drawn for the titre test, AKA the RNATT (Rabies Neutralising Antibody Titre Test Declaration).</p>
-    <p>This is where the waiting game begins. From the day the blood was drawn, your dog needs to wait three months* before they can travel.</p>
+    <p>This is where the waiting game begins. From the day the blood is drawn, your dog(s) needs to wait three months* before they can travel.</p>
     <p>In South Africa, your vet will send the blood sample to Onderstepoort, where they will test the sample to determine if your dog has enough antibodies. It’s a fairly standard procedure. After about two weeks you will be able to collect the certificate from your veterinarian.</p>
     <p>I can’t remember the exact cost of the RNATT exercise, but I would budget ~€300 for all pre-flight vet fees.</p>
-    <p>*If your pet cannot wait three months locally, they will have to spend the remainder of the time in quarantine at your destination. A better option would be to have the pet stay with friends or relatives and have them join you at a later date.</p>
+    <p>*If your pet cannot wait three months locally, they will have to spend the remainder of the time in quarantine at your destination. A better option would be to have the pet stay with friends or relatives and have them join you once cleared for travel.</p>
   </li>
 </ol>
 
@@ -60,30 +62,36 @@ There are three ways for dogs to travel: cabin, check-in (often refered to as "i
 <ul>
   <li>
     <b>Cabin</b>
-    <ol>
-      <li>8kg</li>
-      <li>46 x 28 x 24 cm (L x W x H)</li>
-    </ol>  
+    <p>
+      <ul>
+        <li>8kg</li>
+        <li>46 x 28 x 24 cm (L x W x H)</li>
+      </ul>
+    </p>
   </li>
   <li>
     <b>Check-in</b>
-    <ol>
-      <li>75kg</li>
-      <li>122 x 81 x 89 cm (L x W x H)</li>
-    </ol>  
+    <p>
+      <ul>
+        <li>75kg</li>
+        <li>122 x 81 x 89 cm (L x W x H)</li>
+      </ul> 
+    </p> 
   </li>
   <li>
     <b>Cargo</b>
-    <ol>
-      <li>75kg +</li>
-      <li>292+ cm (L + W + H)</li>
-    </ol>  
+    <p>
+      <ul>
+        <li>75kg +</li>
+        <li>292+ cm (L + W + H)</li>
+      </ul> 
+    </p> 
   </li>
-<ul>
+</ul>
 
-If your moving to Ireland, this is were the bad news comes in: some countries only allow animals to be imported as cargo. This includes the UK and, due to the Common Travel Area agreement of 1923, Ireland and the UK share the same import requirements when it comes to pets. If you travel to most European countries, you can travel with your pet as “check-in” luggage. When flying to Ireland your pet _has_ to come as cargo and the only way to get your dog into cargo is by working with an agency and agencies are expensive.
+If your moving to Ireland, this is were the bad news comes in: some countries only allow animals to be imported as cargo. This includes the UK and, due to the Common Travel Area agreement of 1923, Ireland and the UK share the same import requirements when it comes to pets. If you travel to most European countries, you can travel with your pet as “check-in” luggage. When flying to Ireland your pet _has_ to come as cargo and the only way to get your dog into cargo is by working with an agency and it gets expensive.
 
-We used [Animal Travel Services](https://www.animal-travel.com/) and could not recommend them more highly. They also happened to be, by quite some margin, the most affordable quote we received.
+We used [Animal Travel Services](https://www.animal-travel.com/) in Cape Town and could not recommend them more highly. They also happened to be, by quite some margin, the most affordable quote we received.
 
 Brexit might affect the above and regulations change regularly. Again, I would recommend that you contact pet friendly airlines such as KLM, Lufthansa and Swiss Air to query the route. Approved airlines depend on your destination. The airline will be able to confirm whether or not your dog is allowed to enter the country as check-in luggage. If your dog is flying check-in you should arrive at the airport 3-4 hours before your flight, with your dog.
 
@@ -96,6 +104,10 @@ Flying Wilco as cargo was costly, but with the benefit of hindsight, I’m very 
 If your dog is travelling cargo, it _has_ to travel in a wooden crate. If your dog is travelling in the hold it has to be in a IATA approved plastic crate. If, like us, you switch things up every couple of years, this is a little frustrating as our dog now has two impossibly large crates. One plastic (for fights within the EU) and one wooden (for international flights). The wooden crate will be provided through your travel agency, I recommend sticking with their standard crate. The requirements for the plastic crate differs depending on the airline, but they’ll most likely have a detailed spec of their requirements on their website.
 
 Both our crates cost ~€200 each. It goes without saying that this is dependent.
+
+## Finding a pet friendly home
+
+Generally, Europe (especially the mainland) is pretty pet friendly and we found that people are willing to negotiate when it comes to pets. You're definitely better off dealing with the landlord self, we found that agencies didn't even reply if you mentioned the word dog. We were incredibly lucky and ended up living in the first house we viewed. My husband did arrive a month before us as Wilco still had to wait out the three months after his blood was drawn. We used that time to tie up our ends in South Africa and get everything ready this side. If you're moving with a pet, that would be my recommendation.
 
 ## The week before take-off
 
@@ -122,10 +134,6 @@ If you’re travelling to Ireland, there’s only one point of entry for pets ar
 The entire endeavour cost us just over €2000 (30 000 ZAR). At the time it was a bitter pill to swallow, but having gone through it, I can now truthfully say that I would pay double tomorrow, even if it cost me kidney. Settling in another country comes with it's own set of challenges and for us, Wilco made the transition much easier. He's a trooper. We've enjoyed hiking with him all over the island and seen some pretty magical scenery.
 
 We now often struggle with the concept of home, but have come to realise that home is where the dog is.
-
-## Finding a pet friendly home
-
-Generally, Europe (especially the mainland) is pretty pet friendly and we found that people are willing to negotiate pets. You're better off dealing with the landlord self, we found that agencies didn't even reply if you mentioned the word dog. We were incredibly lucky and ended up living in the first house we viewed. My husband did arrive a month before us as Wilco still had to wait out the three months after his blood was drawn and we used that time to tie up our ends in South Africa and get everything ready this side. If moving with a pet, that would be my recommendation.
 
 ## Useful links
 
