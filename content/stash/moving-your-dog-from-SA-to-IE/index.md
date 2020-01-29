@@ -50,7 +50,7 @@ Regardless of the destination or method of travel, your local veterinarian will 
     <p>There is a thirty day waiting period between the vaccination and the blood tests. Once the required thirty days have passed your dog’s blood can be drawn for the titre test, AKA the RNATT (Rabies Neutralising Antibody Titre Test Declaration).</p>
     <p>This is where the waiting game begins. From the day the blood is drawn, your dog(s) needs to wait three months* before they can travel.</p>
     <p>In South Africa, your vet will send the blood sample to Onderstepoort, where they will test the sample to determine if your dog has enough antibodies. It’s a fairly standard procedure. After about two weeks you will be able to collect the certificate from your veterinarian.</p>
-    <p>I can’t remember the exact cost of the RNATT exercise, but I would budget ~€300 for all pre-flight vet fees.</p>
+    <p>I can’t remember the exact cost of the RNATT exercise, but I would budget ~€300 for all pre-flight vet fees. The good news is that, as long as you keep your vaccinations up to date, the rabies certificate is valid for life.</p>
     <p>*If your pet cannot wait three months locally, they will have to spend the remainder of the time in quarantine at your destination. A better option would be to have the pet stay with friends or relatives and have them join you once cleared for travel.</p>
   </li>
 </ol>
@@ -59,7 +59,7 @@ Regardless of the destination or method of travel, your local veterinarian will 
 
 Though you may now find yourself in somewhat of a waiting game, there’s no rest for the wicked!
 
-There are three ways for dogs to travel: cabin, check-in (often refered to as "in the hold") or cargo. Each with their own restrictions
+There are three ways for dogs to travel: cabin, check-in (often refered to as "in the hold") or cargo. Each with their own restrictions (restrictions may differ from airline to airline)
 
 <ul>
   <li>
@@ -99,7 +99,7 @@ Flying Wilco as cargo was costly, but with the benefit of hindsight, I’m very 
 
 If your dog is travelling cargo, it _has_ to travel in a wooden crate. If your dog is travelling in the hold it has to be in a IATA approved plastic crate. If, like us, you switch things up every couple of years, this is a little frustrating as our dog now has two impossibly large crates. One plastic (for fights within the EU) and one wooden (for international flights). The wooden crate will be provided through your travel agency, I recommend sticking with their standard crate. The requirements for the plastic crate differs depending on the airline, but they’ll most likely have a detailed spec of their requirements on their website.
 
-Online you'll find plenty of guides on how to measure your dog. The golden rule with crate sizing is to err on the side of caution, rather too big than too small.
+Online you'll find plenty of guides on how to measure your dog. The golden rule with crate sizing is to err on the side of caution, rather too big than too small. It's a good idea to get the crate a couple of weeks before you travel so that your dog can get used to it. If working with an agency, they'll drop-off the crate a week or two in advance.
 
 Both our crates cost ~€200 each. It goes without saying that this is dependent.
 
