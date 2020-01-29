@@ -113,7 +113,7 @@ Paperwork! An EU health certificate must be completed by your veterinary practit
 
 In Cape Town the state veterinarian is located in Milnerton and only open between 9am and 12pm on weekdays. This is where an agency is very helpful. You will have a lot of things on your plate that last week before lift-off, the agency will collect the certificate from you and get it to and from the state vet in time.
 
-## The day of take off
+## Take off
 
 The agency will collect your dog early. In our case my flight was late afternoon and Animal Travel Services collected Wilco at about 9:30 in the morning. The driver was an animal whisperer and it was a very reassuring experience. The agency will use the time to get your dog and his crate flight-ready and truthfully, I needed that last day to get my own admin in order. There are so many moving parts and little tasks that need to be taken care of, like phoning the bank.
 
