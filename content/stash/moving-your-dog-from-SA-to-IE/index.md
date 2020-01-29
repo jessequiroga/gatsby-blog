@@ -8,7 +8,7 @@ date: '2020-01-28'
 
 It was just a regular Saturday. My husband "went to Builder’s Warehouse", a pretty standard outing for young home owners on a Saturday morning. When he came home, he asked me if it was okay if we spent a little extra money that month and subsequently presented me with a big blue dog collar and leash. There may have been tears.
 
-That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, <a href="https://www.facebook.com/bellasguardianangels/" target="_blank">Bella’s Guardian Angles</a>, where we met a very anxious little guy, who's known as Wilco and not so little. Two and a half years later and I’m still waiting for my heart to stop expanding.
+That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, <a href="https://www.facebook.com/bellasguardianangels/" target="_blank">Bella’s Guardian Angles</a>, where we met a very anxious little guy, who's now known as Wilco and not so little. Two and a half years later and I’m still waiting for my heart to stop expanding.
 
 <div style="width: 80%; margin: 0 auto 1em;">
   <img src="./wilco_the_pup.jpg" alt="Puppy" title="Wilco The Pup" />
