@@ -1,7 +1,7 @@
 ---
 published: true
 path: '/stash/moving-your-dog-from-SA-to-IE'
-title: Moving with your dog from South Africa to Ireland / UK (and beyond)
+title: Moving with your dog from South Africa to Ireland (the UK and beyond)
 tags: ['personal', 'pet travel']
 date: '2020-01-28'
 ---
