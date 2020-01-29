@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 path: '/stash/notion-alfred-workflow'
 title: A custom notion-alfred workflow
 tags: ['notion', 'alfred', 'productivity']
