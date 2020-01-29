@@ -14,7 +14,7 @@ That afternoon we went to a dog shelter in the Northern Suburbs of Cape Town, <a
   <img src="./wilco_the_pup.jpg" alt="Puppy" title="Wilco The Pup" />
 </div>
 
-The date was 5 August 2017. Little did we know that two months later, my husband would be interviewing for a two year assignment within his consulting firm at their office in Limerick (Ireland) and 6 months later, I would be boarding a plane. Watching as they load our BFG into said plane.
+The date was 5 August 2017. Little did we know that two months later, my husband would be interviewing for a two year assignment within his consulting firm at their office in Limerick (Ireland) and 6 months later, I would be boarding a plane, watching as they load our BFG into said plane.
 
 Getting Wilco to Ireland was definitely one of the most costly and stressful aspects of our move and I regularly get questions about the process. That's why I’ve decided to document it here.
 
@@ -85,7 +85,7 @@ There are three ways for dogs to travel: cabin, check-in (often refered to as "i
   </li>
 </ul>
 
-If your moving to Ireland, this is were the bad news comes in: some countries only allow animals to be imported as cargo. This includes the UK and, due to the Common Travel Area agreement of 1923, Ireland and the UK share the same import requirements when it comes to pets. If you travel to most European countries, you can travel with your pet as “check-in” luggage. When flying to Ireland your pet _has_ to come as cargo and the only way to get your dog into cargo is by working with an agency and it gets expensive.
+If your moving to Ireland, this is where the bad news comes in: some countries only allow animals to be imported as cargo. This includes the UK and, due to the Common Travel Area agreement of 1923, Ireland and the UK share the same import requirements when it comes to pets. If you travel to most European countries, you can travel with your pet as “check-in” luggage. When flying to Ireland your pet _has_ to come as cargo and the only way to get your dog into cargo is by working with an agency and it gets expensive.
 
 We used <a href="https://www.animal-travel.com/" target="_blank">Animal Travel Services</a> in Cape Town and could not recommend them more highly. They also happened to be, by quite some margin, the most affordable quote we received.
 
