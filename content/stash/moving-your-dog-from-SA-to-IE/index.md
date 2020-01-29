@@ -140,7 +140,7 @@ We now often struggle with the concept of home, but have come to realise that ho
 ## Useful links
 
 <ul>
-  <li>The <a href="https://www.citizensinformation.ie/en/moving_country/moving_to_ireland/coming_to_live_in_ireland/bringing_pets_to_ireland.html" target="_blank">official documentation</a> on <i>Bringing pets to Ireland</i> (Every country will have a document or page like this available and if you can't find it online I've found the Departments of Agriculture quick to respond</li>
+  <li>The <a href="https://www.citizensinformation.ie/en/moving_country/moving_to_ireland/coming_to_live_in_ireland/bringing_pets_to_ireland.html" target="_blank">official documentation</a> on <i>Bringing pets to Ireland</i> (Every country will have a document or page like this available and if you can't find it online I've found the Departments of Agriculture are quick to respond)</li>
   <li>KLMs page on <a href="https://www.klm.com/travel/ie_en/prepare_for_travel/travel_planning/pets/index.htm" target="_blank">Travelling with pets</a></li>
   <li><a href="https://www.animal-travel.com/" target="_blank">Animal Travel Services</a></li>
 </ul>
