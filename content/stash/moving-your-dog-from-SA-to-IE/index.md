@@ -127,7 +127,7 @@ Matters like whether or not there is a veterinarian on duty during your layover 
 
 ## Reunited at last
 
-If you’re travelling to Ireland, there’s only one point of entry for pets arriving by plane: Dublin Airport. You’ll collect your dog from World Freight Services next to the airport. There is a small import / handling fee of about ~€40. If possible, try and have some water and food on you upon collection. Wilco was hungry. He's a big fella, so they bought him out with a fork lift. Ears flapping. There may have been tears.
+If you’re travelling to Ireland, there’s only one point of entry for pets arriving by plane: Dublin Airport. You’ll collect your dog from World Freight Services next to the airport. There is a small import / handling fee of about ~€40. If possible, try and have some water and food on you upon collection. Wilco was hungry. He's a big fella, so they bought him out with a forklift. Ears flapping. There may have been tears.
 
 The entire endeavour cost us just over €2000 (30 000 ZAR). At the time it was a bitter pill to swallow, but having gone through it, I can now truthfully say that I would pay double tomorrow, even if I had to sell a kidney. Settling in another country comes with it's own set of challenges and for us, Wilco made the transition much easier. He's a trooper. We've enjoyed hiking with him all over the island and seen some pretty magical scenery.
 
